@@ -1,1 +1,0 @@
-const SUBSTITUICOES={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"};export function escaparHtml(t){return String(t??"").replace(/[&<>"']/g,t=>SUBSTITUICOES[t])}export function escaparRegex(t){return String(t??"").replace(/[.*+?^${}()|[\]\\]/g,"\\$&")}

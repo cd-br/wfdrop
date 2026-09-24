@@ -18,4 +18,4 @@ Os dados de drop e de itens são fornecidos pela Warframe Community Developers (
 Aviso Este é um projeto de fã, sem fins comerciais, não afiliado à Digital Extremes.
 
 
-Versão:2.1.2
+Versão: 2.1.2

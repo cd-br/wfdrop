@@ -1,0 +1,1 @@
+export function lerArmazenado(r){try{return localStorage.getItem(r)}catch{return null}}export function gravarArmazenado(r,t){try{return localStorage.setItem(r,String(t)),!0}catch{return!1}}

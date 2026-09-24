@@ -1,0 +1,68 @@
+# --- Day 5 (fixed) ---
+Endo | Day 5 (fixed reward) | 1,000 Endo, together with 25,000 Credits
+
+# --- Weapon milestones: days 100, 300, 500 and 700 (pick 1) ---
+Azima | Weapon milestones: days 100, 300, 500 and 700 (pick 1) | Comes with a weapon slot and an Orokin Catalyst installed
+Zenistar | Weapon milestones: days 100, 300, 500 and 700 (pick 1) | Comes with a weapon slot and an Orokin Catalyst installed
+Zenith | Weapon milestones: days 100, 300, 500 and 700 (pick 1) | Comes with a weapon slot and an Orokin Catalyst installed
+Sigma & Octantis | Weapon milestones: from day 300 (pick 1) | Comes with a weapon slot and an Orokin Catalyst installed
+
+# --- Primed Mod milestones: days 200, 400, 600 and 900 (pick 1) ---
+Primed Fury | Primed Mod milestones: days 200, 400, 600 and 900 (pick 1) |
+Primed Shred | Primed Mod milestones: days 200, 400, 600 and 900 (pick 1) |
+Primed Vigor | Primed Mod milestones: days 200, 400, 600 and 900 (pick 1) |
+Primed Sure Footed | Primed Mod milestones: from day 400 (pick 1) |
+
+# --- Sigil/Glyph milestones: days 50, 150, 250... (pick 1) ---
+Imminent Eclipse Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Imminent Eclipse Sigil + 3-day Affinity Booster + Orokin Catalyst
+Awakened Luna Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Awakened Luna Sigil + 3-day Credit Booster + Exilus Warframe Adapter
+Eternal Stasis Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Eternal Stasis Sigil + 3-day Affinity Booster + Orokin Reactor
+Solar Flare Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Solar Flare Sigil + 3-day Credit Booster + Orokin Catalyst
+Void Gate Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Void Gate Sigil + 3-day Affinity Booster + Exilus Warframe Adapter
+Lotus Deliverance Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Lotus Deliverance Sigil + 3-day Credit Booster + Orokin Reactor
+Spectral Tide Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Spectral Tide Glyph + 3 Forma + Orokin Reactor
+Guiding Rose Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Guiding Rose Glyph + 3-day Affinity Booster + Exilus Warframe Adapter
+Lustrous Major Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | Lustrous Major Glyph + 7-day Credit Booster + Orokin Reactor
+Riven Cache | Sigil and Glyph milestones: days 50, 150, 250... (pick 1) | 3 sealed Riven Mods (rifle, pistol and melee) + Riven slots
+
+# --- Special milestones ---
+Lodestar Syandana | Day 800 (milestone) |
+Lodestar Armor Bundle | Day 1000 (milestone) |
+
+# --- Evergreen: from day 1050, every 50 days (rotation A → B → C, pick 1) ---
+Forma Cache | Evergreen A: day 1050 and every 150 days (pick 1) | 3 Forma
+Exilus Cache | Evergreen A: day 1050 and every 150 days (pick 1) | 3 Exilus Warframe Adapter
+Armory Cache | Evergreen A: day 1050 and every 150 days (pick 1) | 4 weapon slots
+Kuva Cache | Evergreen B: day 1100 and every 150 days (pick 1) | 50,000 Kuva
+Scavenger Cache | Evergreen B: day 1100 and every 150 days (pick 1) | 7-day boosters (Affinity, Credit, Resource and Resource Drop Chance)
+Endo Cache | Evergreen B: day 1100 and every 150 days (pick 1) | 30,000 Endo
+Rifle Riven Cache | Evergreen C: day 1150 and every 150 days (pick 1) | 3 Rifle Rivens
+Melee Riven Cache | Evergreen C: day 1150 and every 150 days (pick 1) | 3 Melee Rivens
+Pistol Riven Cache | Evergreen C: day 1150 and every 150 days (pick 1) | 3 Pistol Rivens
+
+# --- Items bundled inside the milestones above (so they're findable by name) ---
+Orokin Catalyst | Sigil and Glyph milestones: days 50, 150, 250... | Inside the Imminent Eclipse and Solar Flare caches
+Orokin Reactor | Sigil and Glyph milestones: days 50, 150, 250... | Inside the Eternal Stasis, Lotus Deliverance, Spectral Tide and Lustrous Major caches
+Exilus Warframe Adapter | Sigil and Glyph milestones: days 50, 150, 250... | Inside the Awakened Luna, Void Gate and Guiding Rose caches
+
+# --- Daily draw (random; the amount grows with accumulated days) ---
+Credits | Daily draw | Amount: 10,000 + (day × 50), capped at 160,000
+Endo | Daily draw | Amount: 80 × (1 + day/200, rounded), capped at 1,280
+Gallium | Daily draw | Amount: 1 + day/200 (rounded), capped at 16
+Morphics | Daily draw |
+Neural Sensors | Daily draw |
+Neurodes | Daily draw |
+Orokin Cell | Daily draw |
+Tellurium | Daily draw |
+Detonite Ampule | Daily draw | Amount: 2 + day/100 (rounded), capped at 32
+Fieldron Sample | Daily draw | Amount: 2 + day/100 (rounded), capped at 32
+Mutagen Sample | Daily draw | Amount: 2 + day/100 (rounded), capped at 32
+Oxium | Daily draw | Amount: 100 + day/2 (rounded), capped at 1,600
+Cryotic | Daily draw | Amount: 50 + day/4 (rounded), capped at 800
+Affinity Booster | Daily draw | Duration: 3 × (1 + day/100) hours, capped at 93 h; active immediately
+Credit Booster | Daily draw | Duration: 3 × (1 + day/100) hours, capped at 93 h; active immediately
+Resource Booster | Daily draw | Duration: 3 × (1 + day/100) hours, capped at 93 h; active immediately
+Resource Drop Chance Booster | Daily draw | Duration: 3 × (1 + day/100) hours, capped at 93 h; active immediately
+Forma Blueprint | Daily draw | Amount: 1 + day/400 (rounded), capped at 9
+Aya | Daily draw (rare, ~0.145%) | Or current (non-vaulted) Relics: 1 + day/200 (rounded), capped at 16
+Warframe or Weapon Blueprint | Daily draw | Only blueprints sold in the Market, for items you don't yet have at max rank

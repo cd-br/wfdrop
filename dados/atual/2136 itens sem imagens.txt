@@ -1,0 +1,2137 @@
+ 2136 itens dos drops não possuem imagem no catálogo warframe-items:
+  - 1,500 Credits Cache
+  - 10,000 Credits Cache
+  - 10,000 Höllars Cache
+  - 100 Endo
+  - 1000 Endo
+  - 1000X Nano Spores
+  - 100X Circuits
+  - 100X Cryotic
+  - 100X Kuva
+  - 100X Oxium
+  - 100X Plastids
+  - 100X Rubedo
+  - 10X Alloy Plate
+  - 10X Charc Electroplax
+  - 10X Circuits
+  - 10X Condroc Wing
+  - 10X Coprite Alloy
+  - 10X Corrupted Holokey
+  - 10X Cryotic
+  - 10X Esher Devar
+  - 10X Experimental Arc-Relay
+  - 10X Fish Scales
+  - 10X Goopolla Spleen
+  - 10X Grokdrul
+  - 10X Hexenon
+  - 10X Iradite
+  - 10X Khut-Khut Venom Sac
+  - 10X Kuaka Spinal Claw
+  - 10X Maprico
+  - 10X Mawfish Bones
+  - 10X Nistlepod
+  - 10X Plastids
+  - 10X Pyrotic Alloy
+  - 10X Rubedo
+  - 10X Salvage
+  - 10X Tear Azurite
+  - 10X Techrot Chitin
+  - 10X Void Traces
+  - 10X Yogwun Stomach
+  - 11X Fergolyte
+  - 1200 Endo
+  - 1200X Kuva
+  - 120X Plastids
+  - 125X Kuva
+  - 12X Fergolyte
+  - 13X Fergolyte
+  - 14X Fergolyte
+  - 15 Endo
+  - 15,000 Credits
+  - 150 Endo
+  - 1500 Endo
+  - 150X Agnovidisc
+  - 150X Entrati Obols
+  - 150X Kuva
+  - 150X Rubedo
+  - 15X Atramentum
+  - 15X Fergolyte
+  - 15X Ganglion
+  - 15X Gorgaricus Spore
+  - 15X Grokdrul
+  - 15X Hexenon
+  - 15X Iradite
+  - 15X Lucent Teroglobe
+  - 15X Maphica
+  - 15X Mytocardia Spore
+  - 15X Necracoil
+  - 15X Nistlepod
+  - 15X Pustulite
+  - 15X Stela
+  - 15X Thermal Sludge
+  - 15X Thrax Plasm
+  - 15X Void Traces
+  - 160 Endo
+  - 1600 Endo
+  - 16X Fergolyte
+  - 16X Scuttler Husk
+  - 175X Kuva
+  - 17X Fergolyte
+  - 17X Scuttler Husk
+  - 1800 Endo
+  - 18X Fergolyte
+  - 18X Scuttler Husk
+  - 19X Fergolyte
+  - 19X Scuttler Husk
+  - 2,000 Credits Cache
+  - 2,500 Credits Cache
+  - 200 Endo
+  - 2000 Endo
+  - 200X Carbides
+  - 200X Cryotic
+  - 200X Cubic Diodes
+  - 200X Kuva
+  - 200X Nano Spores
+  - 200X Oxium
+  - 200X Plastids
+  - 200X Titanium
+  - 20X Efervon Sample
+  - 20X Gorgaricus Spore
+  - 20X Höllvanian Pitchweave Fragment
+  - 20X Mytocardia Spore
+  - 20X Scuttler Husk
+  - 20X Temporal Dust
+  - 20X Thermal Sludge
+  - 2100 Endo
+  - 21X Scuttler Husk
+  - 2250 Endo
+  - 225X Kuva
+  - 22X Scuttler Husk
+  - 23X Scuttler Husk
+  - 2400 Endo
+  - 240X Polymer Bundle
+  - 24X Scuttler Husk
+  - 250 Endo
+  - 2500 Endo
+  - 250X Aggristone
+  - 250X Kuva
+  - 250X Oxium
+  - 250X Saggen Pearl
+  - 25X Atramentum
+  - 25X Servoris
+  - 25X Steel Essence
+  - 25X Temporal Dust
+  - 2700 Endo
+  - 2X 10,000 Credits Cache
+  - 2X 3,000 Credits Cache
+  - 2X Advances Debt-Bond
+  - 2X Argon Crystal
+  - 2X Cetus Wisp
+  - 2X Control Module
+  - 2X Detonite Injector
+  - 2X Familial Debt-Bond
+  - 2X Fieldron
+  - 2X Forma Blueprint
+  - 2X Gallium
+  - 2X Medical Debt-Bond
+  - 2X Morphics
+  - 2X Mutagen Mass
+  - 2X Narmer Isoplast
+  - 2X Neural Sensors
+  - 2X Neurodes
+  - 2X Orokin Animus Matrix
+  - 2X Orokin Ballistics Matrix
+  - 2X Orokin Cell
+  - 2X Orokin Orientation Matrix
+  - 2X Pherliac Pods
+  - 2X Riven Sliver
+  - 2X Shelter Debt-Bond
+  - 2X Training Debt-Bond
+  - 3 Day Affinity Booster
+  - 3 Day Mod Drop Chance Booster
+  - 3 Day Resource Drop Chance Booster
+  - 3,000 Credits Cache
+  - 30,000 Credits
+  - 300 Endo
+  - 3000 Endo
+  - 300X Circuits
+  - 300X Ferrite
+  - 300X Kuva
+  - 300X Plastids
+  - 300X Polymer Bundle
+  - 300X Rubedo
+  - 30X Connla Sprout
+  - 30X Dracroot
+  - 30X Eevani
+  - 30X Höllvanian Pitchweave Fragment
+  - 30X Kovnik
+  - 30X Ueymag
+  - 30X Vosfor
+  - 30X Yao Shrub
+  - 3300 Endo
+  - 3500 Endo
+  - 350X Kuva
+  - 350X Plastids
+  - 350X Rubedo
+  - 3X 1,500 Credits Cache
+  - 3X 10,000 Credits Cache
+  - 3X 5,000 Credits Cache
+  - 3X Arcane Acceleration
+  - 3X Arcane Aegis
+  - 3X Arcane Agility
+  - 3X Arcane Arachne
+  - 3X Arcane Avenger
+  - 3X Arcane Awakening
+  - 3X Arcane Circumvent
+  - 3X Arcane Concentration
+  - 3X Arcane Consequence
+  - 3X Arcane Deflection
+  - 3X Arcane Eruption
+  - 3X Arcane Expertise
+  - 3X Arcane Fury
+  - 3X Arcane Guardian
+  - 3X Arcane Healing
+  - 3X Arcane Ice
+  - 3X Arcane Momentum
+  - 3X Arcane Nullifier
+  - 3X Arcane Persistence
+  - 3X Arcane Phantasm
+  - 3X Arcane Precision
+  - 3X Arcane Pulse
+  - 3X Arcane Rage
+  - 3X Arcane Resistance
+  - 3X Arcane Strike
+  - 3X Arcane Tempo
+  - 3X Arcane Trickery
+  - 3X Arcane Ultimatum
+  - 3X Arcane Velocity
+  - 3X Arcane Victory
+  - 3X Arcane Warmth
+  - 3X Auroxium Alloy
+  - 3X Breath Of The Eidolon
+  - 3X Calda Toroid
+  - 3X Cetus Wisp
+  - 3X Corrupted Holokey
+  - 3X Entrati Lanthorn
+  - 3X Gallium
+  - 3X Lua Thrax Plasm
+  - 3X Melee Careen
+  - 3X Mutagen Sample
+  - 3X Narmer Isoplast
+  - 3X Nightmare Tatters
+  - 3X Orokin Animus Matrix
+  - 3X Orokin Ballistics Matrix
+  - 3X Orokin Orientation Matrix
+  - 3X Primary Bulwark
+  - 3X Primary Debilitate
+  - 3X Primary Overcharge
+  - 3X Repeller Systems
+  - 3X Riven Sliver
+  - 3X Saggen Pearl
+  - 3X Scintillant
+  - 3X Secondary Irradiate
+  - 3X Sola Toroid
+  - 3X Techrot Chitin
+  - 3X Vega Toroid
+  - 3X Vitus Essence
+  - 4,000 Credits Cache
+  - 400 Endo
+  - 4000 Endo
+  - 400X Alloy Plate
+  - 400X Circuits
+  - 400X Ferrite
+  - 400X Rubedo
+  - 4200 Endo
+  - 450 Endo
+  - 4X Corrupted Holokey
+  - 4X Kullervo's Bane
+  - 4X Nightmare Tatters
+  - 4X Orokin Animus Matrix
+  - 4X Orokin Ballistics Matrix
+  - 4X Orokin Orientation Matrix
+  - 4X Techrot Motherboard
+  - 5,000 Credits Cache
+  - 50 Endo
+  - 50,000 Credits Cache
+  - 500 Endo
+  - 500X Kuva
+  - 500X Nano Spores
+  - 500X Polymer Bundle
+  - 50X Aggristone
+  - 50X Efervon Sample
+  - 50X Höllvanian Pitchweave Fragment
+  - 50X Saggen Pearl
+  - 50X Vosfor
+  - 5X 10,000 Credits Cache
+  - 5X Aggristone
+  - 5x Ancient Protector Specter
+  - 5X Asterite
+  - 5X Atmo Systems
+  - 5X Breath Of The Eidolon
+  - 5x Charger Specter
+  - 5X Corrupted Holokey
+  - 5x Corrupted Lancer Specter
+  - 5X Fass Residue
+  - 5X Gallos Rods
+  - 5X Gorgaricus Spore
+  - 5X Gyromag Systems
+  - 5X Hexenon
+  - 5X Isos
+  - 5X Kullervo's Bane
+  - 5X Lua Thrax Plasm
+  - 5x Moa Specter
+  - 5X Mytocardia Spore
+  - 5x Roller Specter
+  - 5X Saggen Pearl
+  - 5x Shield Osprey Specter
+  - 5X Tepa Nodule
+  - 5X Thermal Sludge
+  - 5X Void Traces
+  - 5X Voidgel Orb
+  - 5X Vome Residue
+  - 600 Endo
+  - 6000 Endo
+  - 6000X Kuva
+  - 600X Cryotic
+  - 600X Salvage
+  - 60X Connla Sprout
+  - 60X Dracroot
+  - 60X Eevani
+  - 60X Kovnik
+  - 60X Laudavi
+  - 60X Ueymag
+  - 60X Yao Shrub
+  - 6X Corrupted Holokey
+  - 6X Experimental Arc-Relay
+  - 6X Fersteel Alloy
+  - 6X Kullervo's Bane
+  - 6X Marquise Veridos
+  - 6X Mortus Horn
+  - 6X Techrot Chitin
+  - 6X Tralok Eyes
+  - 6X Vainthorn
+  - 7,500 Credits Cache
+  - 750 Endo
+  - 750X Alloy Plate
+  - 750X Circuits
+  - 750X Kuva
+  - 75X Ignia
+  - 7X Aggristone
+  - 7X Kullervo's Bane
+  - 7X Vainthorn
+  - 80 Endo
+  - 8X Enigma Gyrum
+  - 8X Kullervo's Bane
+  - 8X Techrot Motherboard
+  - 8X Vainthorn
+  - 900 Endo
+  - Abating Link (Trinity)
+  - Abundant Mutation (Nidus)
+  - Acceltra Blueprint
+  - Acceltra Prime Barrel
+  - Acceltra Prime Blueprint
+  - Acceltra Prime Receiver
+  - Acceltra Prime Stock
+  - Accumulating Whipclaw (Khora)
+  - Adra Mutagen Blueprint
+  - Adramal Alloy X20 Blueprint
+  - Aegis Gale (Hildryn)
+  - Aegrit Blueprint
+  - Aegron Gyro Blueprint
+  - Aeolak Barrel Blueprint
+  - Aeolak Blueprint
+  - Aeolak Receiver Blueprint
+  - Aeolak Stock Blueprint
+  - Aerial Bond (companion)
+  - Afentis Blueprint
+  - Afentis Prime Barrel
+  - Afentis Prime Blade
+  - Afentis Prime Blueprint
+  - Afentis Prime Handle
+  - Affinity Booster
+  - Afterburn (Chroma)
+  - Afuris Prime Barrel
+  - Afuris Prime Blueprint
+  - Afuris Prime Link
+  - Afuris Prime Receiver
+  - Agkuza Blade
+  - Agkuza Guard
+  - Agkuza Handle
+  - Airburst Rounds (Zephyr)
+  - Akarius Blueprint
+  - Akarius Prime Barrel
+  - Akarius Prime Blueprint
+  - Akarius Prime Link
+  - Akarius Prime Receiver
+  - Akbolto Prime Barrel
+  - Akbolto Prime Blueprint
+  - Akbolto Prime Link
+  - Akbolto Prime Receiver
+  - Akbronco Blueprint
+  - Akbronco Prime Blueprint
+  - Akbronco Prime Link
+  - Akjagara Prime Barrel
+  - Akjagara Prime Blueprint
+  - Akjagara Prime Link
+  - Akjagara Prime Receiver
+  - Aklex Prime Blueprint
+  - Aklex Prime Link
+  - Akmagnus Prime Blueprint
+  - Akmagnus Prime Link
+  - Aksomati Prime Barrel
+  - Aksomati Prime Blueprint
+  - Aksomati Prime Link
+  - Aksomati Prime Receiver
+  - Akstiletto Prime Barrel
+  - Akstiletto Prime Blueprint
+  - Akstiletto Prime Link
+  - Akstiletto Prime Receiver
+  - Akvasto Prime Blueprint
+  - Akvasto Prime Link
+  - Albumchip
+  - Alcrom Core Blueprint
+  - Alternox Blueprint
+  - Alternox Prime Barrel
+  - Alternox Prime Blueprint
+  - Alternox Prime Receiver
+  - Alternox Prime Stock
+  - Amanata Blade Blueprint
+  - Amanata Blueprint
+  - Amanata Handle Blueprint
+  - Ambassador Barrel Blueprint
+  - Ambassador Blueprint
+  - Ambassador Receiver Blueprint
+  - Ambassador Stock Blueprint
+  - Amber Archon Shard
+  - Amniophysi Trophy Blueprint
+  - Anchored Glide (Zephyr)
+  - Ancient Protector Specter Blueprint
+  - Ankyros Blueprint
+  - Ankyros Prime Blade
+  - Ankyros Prime Blueprint
+  - Ankyros Prime Gauntlet
+  - Anspatha Brace Blueprint
+  - Antimatter Absorb (Nova)
+  - Aquapulmo Trophy Blueprint
+  - Arbucep Barrel Blueprint
+  - Arbucep Blueprint
+  - Arbucep Receiver Blueprint
+  - Arbucep Stock Blueprint
+  - Arc Twelve Blueprint
+  - Arcroid Blueprint
+  - Arioli Mutagen Blueprint
+  - Arum Spinosa Blueprint
+  - Arum Spinosa Guard
+  - Arum Spinosa Rivet
+  - Ash Chassis Blueprint
+  - Ash Neuroptics Blueprint
+  - Ash Prime Blueprint
+  - Ash Prime Chassis Blueprint
+  - Ash Prime Neuroptics Blueprint
+  - Ash Prime Systems Blueprint
+  - Ash Systems Blueprint
+  - Assimilate (Nyx)
+  - Astilla Prime Barrel
+  - Astilla Prime Blueprint
+  - Astilla Prime Receiver
+  - Astilla Prime Stock
+  - AstralBond (companion)
+  - Atheca Gyro Blueprint
+  - Athodai Barrel
+  - Athodai Blueprint
+  - Athodai Prime Barrel
+  - Athodai Prime Blueprint
+  - Athodai Prime Receiver
+  - Athodai Receiver
+  - Atlas Blueprint
+  - Atlas Chassis Blueprint
+  - Atlas Neuroptics Blueprint
+  - Atlas Prime Blueprint
+  - Atlas Prime Chassis Blueprint
+  - Atlas Prime Neuroptics Blueprint
+  - Atlas Prime Systems Blueprint
+  - Atlas Systems Blueprint
+  - Auroxium Alloy x20 Blueprint
+  - Avenging Truth (Silva & Aegis)
+  - Axi A21 Relic
+  - Axi A21 Relic (Radiant)
+  - Axi A22 Relic
+  - Axi A22 Relic (Radiant)
+  - Axi C12 Relic
+  - Axi C12 Relic (Radiant)
+  - Axi D6 Relic
+  - Axi D6 Relic (Radiant)
+  - Axi P10 Relic
+  - Axi P10 Relic (Radiant)
+  - Axi S21 Relic
+  - Axi S21 Relic (Radiant)
+  - Axi S8 Relic
+  - Axi V10 Relic
+  - Axi V14 Relic
+  - Axi V14 Relic (Radiant)
+  - Axidrol Alloy X20 Blueprint
+  - Axios Javelineers (Styanax)
+  - Azima Blueprint
+  - Azure Archon Shard
+  - Bad Baby Blueprint
+  - Balefire Surge (Hildryn)
+  - Balla Blueprint
+  - Ballistic Bullseye (Mesa)
+  - Ballistica Blueprint
+  - Ballistica Prime Blueprint
+  - Ballistica Prime Lower Limb
+  - Ballistica Prime Receiver
+  - Ballistica Prime String
+  - Ballistica Prime Upper Limb
+  - Banshee Prime Blueprint
+  - Banshee Prime Chassis Blueprint
+  - Banshee Prime Neuroptics Blueprint
+  - Banshee Prime Systems Blueprint
+  - Barbisteo Trophy Blueprint
+  - Baruuk Blueprint
+  - Baruuk Chassis Blueprint
+  - Baruuk Neuroptics Blueprint
+  - Baruuk Prime Blueprint
+  - Baruuk Prime Chassis Blueprint
+  - Baruuk Prime Neuroptics Blueprint
+  - Baruuk Prime Systems Blueprint
+  - Baruuk Systems Blueprint
+  - Bashrack Blueprint
+  - Baza Prime Barrel
+  - Baza Prime Blueprint
+  - Baza Prime Receiver
+  - Baza Prime Stock
+  - Beaky Blueprint
+  - Beguiling Lantern (Titania)
+  - Bellows Blueprint
+  - Bhisaj-Bal(Paris Prime)
+  - Biting Frost (Frost)
+  - Blade of Truth (Jaw Sword)
+  - Blazing Pillage (Hildryn)
+  - Blazing Step Ephemera Blueprint
+  - Blending Talons (Garuda)
+  - Blinding Reave (Revenant)
+  - Blood Forge (Garuda)
+  - Bo Prime Blueprint
+  - Bo Prime Handle
+  - Bo Prime Ornament
+  - Boar Blueprint
+  - Boar Prime Barrel
+  - Boar Prime Blueprint
+  - Boar Prime Receiver
+  - Boar Prime Stock
+  - Boltor Blueprint
+  - Boltor Prime Barrel
+  - Boltor Prime Blueprint
+  - Boltor Prime Receiver
+  - Boltor Prime Stock
+  - Bonewidow Blueprint
+  - Bonewidow Capsule Blueprint
+  - Bonewidow Casing Blueprint
+  - Bonewidow Engine Blueprint
+  - Bonewidow Weapon Pod Blueprint
+  - Boot Trophy Blueprint
+  - Brakk Barrel
+  - Brakk Blueprint
+  - Brakk Receiver
+  - Brash Blueprint
+  - Braton Prime Barrel
+  - Braton Prime Blueprint
+  - Braton Prime Receiver
+  - Braton Prime Stock
+  - Braton Vandal Barrel
+  - Braton Vandal Blueprint
+  - Braton Vandal Receiver
+  - Braton Vandal Stock
+  - Brickie Trophy Blueprint
+  - Bright Purity (Skana)
+  - Broken Scepter Blueprint
+  - Broken War Blueprint
+  - Bronco Blueprint
+  - Bronco Prime Barrel
+  - Bronco Prime Blueprint
+  - Bronco Prime Receiver
+  - Burston Blueprint
+  - Burston Prime Barrel
+  - Burston Prime Blueprint
+  - Burston Prime Receiver
+  - Burston Prime Stock
+  - Cabochon Embolos X3 Blueprint
+  - Caliban Chassis Blueprint
+  - Caliban Neuroptics Blueprint
+  - Caliban Prime Blueprint
+  - Caliban Prime Chassis Blueprint
+  - Caliban Prime Neuroptics Blueprint
+  - Caliban Prime Systems Blueprint
+  - Caliban Systems Blueprint
+  - Calm & Frenzy (Equinox)
+  - Cantare Blueprint
+  - Cantic Prism Blueprint
+  - Capacitance (Volt)
+  - Carmine Penta Barrel
+  - Carmine Penta Blueprint
+  - Carmine Penta Receiver
+  - Carmine Penta Stock
+  - Carrier Prime Blueprint
+  - Carrier Prime Carapace
+  - Carrier Prime Cerebrum
+  - Carrier Prime Systems
+  - Cataclysmic Continuum (Limbo)
+  - Cataclysmic Gate (Wisp)
+  - Catapult (Grendel)
+  - Catchmoon Blueprint
+  - Cathode Current (Gyre)
+  - Cedo Barrel
+  - Cedo Blueprint
+  - Cedo Prime Barrel
+  - Cedo Prime Blueprint
+  - Cedo Prime Receiver
+  - Cedo Prime Stock
+  - Cedo Receiver
+  - Cedo Stock
+  - Celestial Stomp (Wukong)
+  - Ceno Apparel Blueprint
+  - Ceno Cuirass Blueprint
+  - Ceno Greaves Blueprint
+  - Ceno Helmet Blueprint
+  - Ceno Pauldrons Blueprint
+  - Centaur Aegis
+  - Centaur Blade
+  - Centaur Handle
+  - Cernos Prime Blueprint
+  - Cernos Prime Grip
+  - Cernos Prime Lower Limb
+  - Cernos Prime String
+  - Cernos Prime Upper Limb
+  - Certus Brace Blueprint
+  - Champion's Blessing (Trinity)
+  - Chaos Sphere (Nyx)
+  - Charamote Trophy Blueprint
+  - Charc Eel Trophy Blueprint
+  - Charger Specter Blueprint
+  - Chilling Globe (Frost)
+  - Chiten Mutagen Blueprint
+  - Chondricord Trophy Blueprint
+  - Chroma Blueprint
+  - Chroma Chassis Blueprint
+  - Chroma Neuroptics Blueprint
+  - Chroma Prime Blueprint
+  - Chroma Prime Chassis Blueprint
+  - Chroma Prime Neuroptics Blueprint
+  - Chroma Prime Systems Blueprint
+  - Chroma Systems Blueprint
+  - Chromatic Blade (Excalibur)
+  - Citrine Blueprint
+  - Citrine Chassis Blueprint
+  - Citrine Neuroptics Blueprint
+  - Citrine Prime Blueprint
+  - Citrine Prime Chassis Blueprint
+  - Citrine Prime Neuroptics Blueprint
+  - Citrine Prime Systems Blueprint
+  - Citrine Systems Blueprint
+  - Clapkra Brace Blueprint
+  - Clashing Forest
+  - Clem Clone Blueprint
+  - Cobra & Crane Prime Blade
+  - Cobra & Crane Prime Blueprint
+  - Cobra & Crane Prime Guard
+  - Cobra & Crane Prime Hilt
+  - Coil Recharge (Gyre)
+  - Coldfusor Blueprint
+  - Concentrated Arrow (Ivara)
+  - Conclave Loadout Slot
+  - Conductive Sphere (Gyre)
+  - Conductor (Octavia)
+  - Contagion Cloud (Saryn)
+  - Contagious Bond (Companion)
+  - Controlled Slide (Nezha)
+  - Coprite Alloy x20 Blueprint
+  - Corinth Prime Barrel
+  - Corinth Prime Blueprint
+  - Corinth Prime Receiver
+  - Corinth Prime Stock
+  - Cortege Barrel Blueprint
+  - Cortege Blueprint
+  - Cortege Receiver Blueprint
+  - Cortege Stock Blueprint
+  - Corufell Barrel
+  - Corufell Blueprint
+  - Corufell Handle
+  - Corufell Prime Blueprint
+  - Corufell Prime Handle
+  - Corufell Prime Receiver
+  - Corufell Prime Stock
+  - Corufell Receiver
+  - Corvas Barrel
+  - Corvas Prime Barrel
+  - Corvas Prime Blueprint
+  - Corvas Prime Receiver
+  - Corvas Prime Stock
+  - Corvas Receiver
+  - Corvas Stock
+  - Cosmic Specter Blueprint
+  - Counter Pulse (Mag)
+  - Covert Bond (Companion)
+  - Creeping Terrify (Nekros)
+  - Crimson Archon Shard
+  - Critical Surge (Wisp)
+  - Cronus Blueprint
+  - Cryotra Blueprint
+  - Cryptosuctus Trophy Blueprint
+  - Cuthol Trophy Blueprint
+  - Cyath Blueprint
+  - Cyngas Barrel
+  - Cyngas Receiver
+  - Cyngas Stock
+  - Cyte-09 Chassis Blueprint
+  - Cyte-09 Neuroptics Blueprint
+  - Cyte-09 Systems Blueprint
+  - Daikyu Prime Blueprint
+  - Daikyu Prime Grip
+  - Daikyu Prime Lower Limb
+  - Daikyu Prime String
+  - Daikyu Prime Upper Limb
+  - Dakra Prime Blade
+  - Dakra Prime Blueprint
+  - Dakra Prime Handle
+  - Damage Decoy (Loki)
+  - Damzav-Vati (Akbronco Prime)
+  - Dante Blueprint
+  - Dante Chassis Blueprint
+  - Dante Neuroptics Blueprint
+  - Dante Systems Blueprint
+  - Dark Propagation (Sevagoth)
+  - Deadly Sequence (Grinlok)
+  - Deepbreath Blueprint
+  - Defender of the Earth
+  - Dehtat Blueprint
+  - Desiccation's Curse (Inaros)
+  - Despair Blueprint
+  - Despoil (Nekros)
+  - Destreza Prime Blade
+  - Destreza Prime Blueprint
+  - Destreza Prime Handle
+  - Desus Antigen Blueprint
+  - Dethcube Prime Blueprint
+  - Dethcube Prime Carapace
+  - Dethcube Prime Cerebrum
+  - Dethcube Prime Systems
+  - Detron Barrel
+  - Detron Blueprint
+  - Detron Receiver
+  - Devolved Namalon X20 Blueprint
+  - Dink-A-Donk Blueprint
+  - Diplomatic Merchant
+  - Disarming Purity (Panthera)
+  - Dissic Scaffold Blueprint
+  - Divine Retribution (Nezha)
+  - Dokrahm Blueprint
+  - Dread Blueprint
+  - Dread Ward (Garuda)
+  - Drex Core Blueprint
+  - Drimper Bracket Blueprint
+  - Dual Kamas Prime Blade
+  - Dual Kamas Prime Blueprint
+  - Dual Kamas Prime Handle
+  - Dual Keres Prime Blade
+  - Dual Keres Prime Blueprint
+  - Dual Keres Prime Handle
+  - Dual Skana Blueprint
+  - Dual Zoren Blueprint
+  - Dual Zoren Prime Blade
+  - Dual Zoren Prime Blueprint
+  - Dual Zoren Prime Handle
+  - Duality (Equinox)
+  - Duplex Bond (Companion)
+  - Duroid Trophy Blueprint
+  - Earth Resource Bundle
+  - Echowinder Trophy Blueprint
+  - Eidolon Lens Blueprint
+  - Eidolon Phylaxis (x5) Blueprint
+  - Ekwana Ii Jai Blueprint
+  - Ekwana II Jai Blueprint
+  - Ekwana Ii Ruhang Blueprint
+  - Ekwana II Ruhang Blueprint
+  - Ekwana Jai Blueprint
+  - Ekwana Jai Ii Blueprint
+  - Ekwana Jai II Blueprint
+  - Ekwana Ruhang Blueprint
+  - Ekwana Ruhang Ii Blueprint
+  - Ekwana Ruhang II Blueprint
+  - Elasmun Antigen Blueprint
+  - Elemental Sandstorm (Inaros)
+  - Elsa Mutagen Blueprint
+  - Elusive Retribution (Baruuk)
+  - Ember Chassis Blueprint
+  - Ember Neuroptics Blueprint
+  - Ember Prime Blueprint
+  - Ember Prime Chassis Blueprint
+  - Ember Prime Neuroptics Blueprint
+  - Ember Prime Systems Blueprint
+  - Ember Systems Blueprint
+  - Emerald Archon Shard
+  - Empowered Quiver (Ivara)
+  - Encrypted Journal Fragment
+  - Endless Lullaby (Baruuk)
+  - Energy Transfer (Equinox)
+  - Enkaus Barrel Blueprint
+  - Enkaus Blueprint
+  - Enkaus Receiver Blueprint
+  - Enkaus Stock Blueprint
+  - Enraged (Valkyr)
+  - Entropy Burst (Supra)
+  - Entropy Detonation (Obex)
+  - Entropy Flight (Kestrel)
+  - Entropy Spike (Bolto)
+  - Enveloping Cloud (Wukong)
+  - Epitaph Barrel
+  - Epitaph Blueprint
+  - Epitaph Prime Barrel
+  - Epitaph Prime Blueprint
+  - Epitaph Prime Receiver
+  - Epitaph Receiver
+  - Equinox Day Aspect Blueprint
+  - Equinox Day Chassis Blueprint
+  - Equinox Day Neuroptics Blueprint
+  - Equinox Day Systems Blueprint
+  - Equinox Night Aspect Blueprint
+  - Equinox Night Chassis Blueprint
+  - Equinox Night Neuroptics Blueprint
+  - Equinox Night Systems Blueprint
+  - Equinox Prime Blueprint
+  - Equinox Prime Chassis Blueprint
+  - Equinox Prime Neuroptics Blueprint
+  - Equinox Prime Systems Blueprint
+  - Eradicator of Corruption
+  - Eroding Blight (Embolist)
+  - Escape Velocity (Nova)
+  - Esher Devar x10 Blueprint
+  - Eternal War (Valkyr)
+  - Ether Daggers Blueprint
+  - Euphona Prime Barrel
+  - Euphona Prime Blueprint
+  - Euphona Prime Receiver
+  - Evensong Blueprint
+  - Everlasting Ward (Chroma)
+  - Exard Scaffold Blueprint
+  - Excalibur Chassis Blueprint
+  - Excalibur Neuroptics Blueprint
+  - Excalibur Systems Blueprint
+  - Exceptional Sentient Core Conversion
+  - Exilus Warframe Adapter Blueprint
+  - Exilus Weapon Adapter Blueprint
+  - Exothermic (Ember)
+  - Explosive Legerdemain (Mirage)
+  - Eye-Eye Trophy Blueprint
+  - Faceted Tiametrite X10 Blueprint
+  - Fang Blueprint
+  - Fang Prime Blade
+  - Fang Prime Blueprint
+  - Fang Prime Handle
+  - Fatboys Blueprint
+  - Felarx Blueprint
+  - Fersteel Alloy x20 Blueprint
+  - Fireball Frenzy (Ember)
+  - Flagellocanth Trophy Blueprint
+  - Flatbelly Blueprint
+  - Fluctus Barrel
+  - Fluctus Limbs
+  - Fluctus Stock
+  - Flutterfire Blueprint
+  - Follie Blueprint
+  - Follie Chassis Blueprint
+  - Follie Neuroptics Blueprint
+  - Follie Systems Blueprint
+  - Force Specter Blueprint
+  - Forma Blueprint
+  - Fosfor Blau (x20) Blueprint
+  - Fosfor Rahd (x20) Blueprint
+  - Fracturing Crush (Mag)
+  - Fragor Blueprint
+  - Fragor Prime Blueprint
+  - Fragor Prime Handle
+  - Fragor Prime Head
+  - Freeze Force (Frost)
+  - Freezing Step Ephemera Blueprint
+  - Frost Chassis Blueprint
+  - Frost Neuroptics Blueprint
+  - Frost Prime Blueprint
+  - Frost Prime Chassis Blueprint
+  - Frost Prime Neuroptics Blueprint
+  - Frost Prime Systems Blueprint
+  - Frost Systems Blueprint
+  - Fulmin Prime Barrel
+  - Fulmin Prime Blueprint
+  - Fulmin Prime Receiver
+  - Fulmin Prime Stock
+  - Funnel Clouds (Zephyr)
+  - Furax Wraith Blueprint
+  - Furax Wraith Left Gauntlet
+  - Furax Wraith Right Gauntlet
+  - Furious Javelin (Excalibur)
+  - Furis Blueprint
+  - Fused Crucible (Qorvex)
+  - Fused Reservoir (Wisp)
+  - Galariak Prime Blade Blueprint
+  - Galariak Prime Blueprint
+  - Galariak Prime Handle Blueprint
+  - Galatine Prime Blade
+  - Galatine Prime Blueprint
+  - Galatine Prime Handle
+  - Gammacor Blueprint
+  - Gara Blueprint
+  - Gara Chassis Blueprint
+  - Gara Neuroptics Blueprint
+  - Gara Prime Blueprint
+  - Gara Prime Chassis Blueprint
+  - Gara Prime Neuroptics Blueprint
+  - Gara Prime Systems Blueprint
+  - Gara Systems Blueprint
+  - Garuda Blueprint
+  - Garuda Chassis Blueprint
+  - Garuda Neuroptics Blueprint
+  - Garuda Prime Blueprint
+  - Garuda Prime Chassis Blueprint
+  - Garuda Prime Neuroptics Blueprint
+  - Garuda Prime Systems Blueprint
+  - Garuda Systems Blueprint
+  - Gas Can
+  - Gastro (Grendel)
+  - Gauss Chassis Blueprint
+  - Gauss Neuroptics Blueprint
+  - Gauss Prime Blueprint
+  - Gauss Prime Chassis Blueprint
+  - Gauss Prime Neuroptics Blueprint
+  - Gauss Prime Systems Blueprint
+  - Gauss Systems Blueprint
+  - Gauth Bracket Blueprint
+  - Gaze Blueprint
+  - Ghoulsaw Blade Blueprint
+  - Ghoulsaw Blueprint
+  - Ghoulsaw Chassis Blueprint
+  - Ghoulsaw Engine Blueprint
+  - Ghoulsaw Grip Blueprint
+  - Gibber Blueprint
+  - Gilded Truth (Burston Prime)
+  - Glaive Prime Blade
+  - Glaive Prime Blueprint
+  - Glaive Prime Disc
+  - Glappid Trophy Blueprint
+  - Gleaming Blight (Dark Dagger)
+  - Glowing Sentient Core
+  - Glutinox Trophy Blueprint
+  - Goblite Tears X10 Blueprint
+  - Goopolla Trophy Blueprint
+  - Gorgon Blueprint
+  - Gorgon Wraith Barrel
+  - Gorgon Wraith Blueprint
+  - Gorgon Wraith Receiver
+  - Gorgon Wraith Stock
+  - Gourmand (Grendel)
+  - Gram Blueprint
+  - Gram Prime Blade
+  - Gram Prime Blueprint
+  - Gram Prime Handle
+  - Granmu Prism Blueprint
+  - Greedy Pull (Mag)
+  - Grendel Prime Blueprint
+  - Grendel Prime Chassis Blueprint
+  - Grendel Prime Neuroptics Blueprint
+  - Grendel Prime Systems Blueprint
+  - Guandao Prime Blade
+  - Guandao Prime Blueprint
+  - Guandao Prime Handle
+  - Guardian Armor (Chroma)
+  - Guided Effigy (Chroma)
+  - Gunsen Prime Blade
+  - Gunsen Prime Blueprint
+  - Gunsen Prime Handle
+  - Gyre Blueprint
+  - Gyre Chassis Blueprint
+  - Gyre Neuroptics Blueprint
+  - Gyre Prime Blueprint
+  - Gyre Prime Chassis Blueprint
+  - Gyre Prime Neuroptics Blueprint
+  - Gyre Prime Systems Blueprint
+  - Gyre Systems Blueprint
+  - Hall of Malevolence (Mirage)
+  - Hallowed Eruption (Oberon)
+  - Hallowed Reckoning (Oberon)
+  - Harmony Blueprint
+  - Harpen Gyro Blueprint
+  - Harrow Blueprint
+  - Harrow Chassis Blueprint
+  - Harrow Neuroptics Blueprint
+  - Harrow Prime Blueprint
+  - Harrow Prime Chassis Blueprint
+  - Harrow Prime Neuroptics Blueprint
+  - Harrow Prime Systems Blueprint
+  - Harrow Systems Blueprint
+  - Hata-Satya (Soma Prime)
+  - Hate Blueprint
+  - Haymaker Blueprint
+  - Haztech Apparel Blueprint
+  - Haztech Cuirass Blueprint
+  - Haztech Greaves Blueprint
+  - Haztech Mask Blueprint
+  - Haztech Pauldrons Blueprint
+  - Healing Flame (Ember)
+  - Heart Noctrul X10 Blueprint
+  - Heart Nyth x3 Blueprint
+  - Hearty Nourishment (Grendel)
+  - Heliocor Blueprint
+  - Helios Prime Blueprint
+  - Helios Prime Carapace
+  - Helios Prime Cerebrum
+  - Helios Prime Systems
+  - Helminth Invigoration Segment Blueprint
+  - Helminth Segment Blueprint
+  - Helstrum Blueprint
+  - Hespar Blade Blueprint
+  - Hespar Blueprint
+  - Hespar Handle Blueprint
+  - Hespazym Alloy X20 Blueprint
+  - Hexis Armor Set
+  - Hextra Gyro Blueprint
+  - Higasa Barrel Blueprint
+  - Higasa Blueprint
+  - Higasa Receiver Blueprint
+  - Higasa Stock Blueprint
+  - Highbrow Blueprint
+  - Hikou Blueprint
+  - Hikou Prime Blueprint
+  - Hikou Prime Pouch
+  - Hikou Prime Stars
+  - Hildryn Blueprint
+  - Hildryn Chassis Blueprint
+  - Hildryn Neuroptics Blueprint
+  - Hildryn Prime Blueprint
+  - Hildryn Prime Chassis Blueprint
+  - Hildryn Prime Neuroptics Blueprint
+  - Hildryn Prime Systems Blueprint
+  - Hildryn Systems Blueprint
+  - Hind Blueprint
+  - Hona Bracket Blueprint
+  - Hood Display Black
+  - Hood Display Grey
+  - Hood Display Teal
+  - Hothead Blueprint
+  - Hushed Invisibility (Loki)
+  - Hydroid Chassis Blueprint
+  - Hydroid Neuroptics Blueprint
+  - Hydroid Prime Blueprint
+  - Hydroid Prime Chassis Blueprint
+  - Hydroid Prime Neuroptics Blueprint
+  - Hydroid Prime Systems Blueprint
+  - Hydroid Systems Blueprint
+  - Hysterical Assault (Valkyr)
+  - Hystrix Prime Barrel
+  - Hystrix Prime Blueprint
+  - Hystrix Prime Receiver
+  - Ibexan Antigen Blueprint
+  - Ice Wave Impedance (Frost)
+  - Icy Avalanche (Frost)
+  - Ignis Wraith Blueprint
+  - Immolated Radiance (Ember)
+  - Imperator Blueprint
+  - Imperator Vandal Barrel
+  - Imperator Vandal Blueprint
+  - Imperator Vandal Receiver
+  - Inaros Blueprint
+  - Inaros Chassis Blueprint
+  - Inaros Neuroptics Blueprint
+  - Inaros Prime Blueprint
+  - Inaros Prime Chassis Blueprint
+  - Inaros Prime Neuroptics Blueprint
+  - Inaros Prime Systems Blueprint
+  - Inaros Systems Blueprint
+  - Infiltrate (Ivara)
+  - Innodem Blueprint
+  - Insatiable (Nidus)
+  - Intrepid Stand (Styanax)
+  - Iranon Antigen Blueprint
+  - Iron Shrapnel (Rhino)
+  - Ironclad Charge (Rhino)
+  - Ironclad Flight (Titania)
+  - Irradiating Disarm (Loki)
+  - Ivara Chassis Blueprint
+  - Ivara Neuroptics Blueprint
+  - Ivara Prime Blueprint
+  - Ivara Prime Chassis Blueprint
+  - Ivara Prime Neuroptics Blueprint
+  - Ivara Prime Systems Blueprint
+  - Ivara Systems Blueprint
+  - Jade Chassis Blueprint
+  - Jade Neuroptics Blueprint
+  - Jade Systems Blueprint
+  - Jade's Judgment (Jade)
+  - Jai Blueprint
+  - Jai Ii Blueprint
+  - Jayap Blueprint
+  - Jet Stream (Zephyr)
+  - Jonsin Bracket Blueprint
+  - Justice Blades (Dual Cleavers)
+  - Juttni Brace Blueprint
+  - Karak Blueprint
+  - Karkina Trophy Blueprint
+  - Karyst Prime Blade
+  - Karyst Prime Blueprint
+  - Karyst Prime Handle
+  - Kaszas Blade
+  - Kaszas Handle
+  - Kavasa Prime Kubrow Collar Blueprint
+  - Kavat Incubator Upgrade Segment Blueprint
+  - Keratinos Blade Blueprint
+  - Keratinos Blueprint
+  - Keratinos Gauntlet Blueprint
+  - Kestrel Blueprint
+  - Kestrel Prime Blade
+  - Kestrel Prime Blueprint
+  - Kestrel Prime Grip
+  - Khora Chassis Blueprint
+  - Khora Neuroptics Blueprint
+  - Khora Prime Blueprint
+  - Khora Prime Chassis Blueprint
+  - Khora Prime Neuroptics Blueprint
+  - Khora Prime Systems Blueprint
+  - Khora Systems Blueprint
+  - Khut-Khut Trophy Blueprint
+  - Killstream Blueprint
+  - Kinetic Siphon Trap x 10
+  - Klamora Prism Blueprint
+  - Klebrik Scaffold Blueprint
+  - Knell Prime Barrel
+  - Knell Prime Blueprint
+  - Knell Prime Receiver
+  - Kogake Blueprint
+  - Kogake Prime Blueprint
+  - Kogake Prime Boot
+  - Kogake Prime Gauntlet
+  - Kompressa Barrel Blueprint
+  - Kompressa Blueprint
+  - Kompressa Prime Barrel
+  - Kompressa Prime Blueprint
+  - Kompressa Prime Receiver
+  - Kompressa Receiver Blueprint
+  - Korb Blueprint
+  - Korrudo Blueprint
+  - Korumm Blueprint
+  - Koumei Blueprint
+  - Koumei Chassis Blueprint
+  - Koumei Neuroptics Blueprint
+  - Koumei Systems Blueprint
+  - Kraken Blueprint
+  - Kriller Trophy Blueprint
+  - Krisys Core Blueprint
+  - Kronen Prime Blade
+  - Kronen Prime Blueprint
+  - Kronen Prime Handle
+  - Kronsh Blueprint
+  - Kroostra Blueprint
+  - Kubrodon Ventikid Apparel Blueprint
+  - Kubrodon Ventikid Cuirass Blueprint
+  - Kubrodon Ventikid Greaves Blueprint
+  - Kubrodon Ventikid Mask Blueprint
+  - Kubrodon Ventikid Pauldrons Blueprint
+  - Kumihimo Loading (Koumei)
+  - Kunai Blueprint
+  - Kwath Blueprint
+  - Kymaeros Trophy Blueprint
+  - Laetum Blueprint
+  - Laka Blueprint
+  - Lambeo Moa Blueprint
+  - Larkspur Prime Barrel
+  - Larkspur Prime Blueprint
+  - Larkspur Prime Receiver
+  - Larkspur Prime Stock
+  - Larva Burst (Nidus)
+  - Lasting Covenant (Harrow)
+  - Lasting Purity (Vulkar)
+  - Lato Vandal Barrel
+  - Lato Vandal Blueprint
+  - Lato Vandal Receiver
+  - Latron Blueprint
+  - Latron Prime Barrel
+  - Latron Prime Blueprint
+  - Latron Prime Receiver
+  - Latron Prime Stock
+  - Lavos Blueprint
+  - Lavos Chassis
+  - Lavos Chassis Blueprint
+  - Lavos Cordatus Helmet Blueprint
+  - Lavos Neuroptics
+  - Lavos Neuroptics Blueprint
+  - Lavos Prime Blueprint
+  - Lavos Prime Chassis Blueprint
+  - Lavos Prime Neuroptics Blueprint
+  - Lavos Prime Systems Blueprint
+  - Lavos Systems
+  - Lavos Systems Blueprint
+  - Lega Prism Blueprint
+  - Legendary Core
+  - Lehan Core Blueprint
+  - Leptosam Mutagen Blueprint
+  - Lex Prime Barrel
+  - Lex Prime Blueprint
+  - Lex Prime Receiver
+  - Liberated Grineer
+  - Limbo Chassis Blueprint
+  - Limbo Neuroptics Blueprint
+  - Limbo Prime Blueprint
+  - Limbo Prime Chassis Blueprint
+  - Limbo Prime Neuroptics Blueprint
+  - Limbo Prime Systems Blueprint
+  - Limbo Systems Blueprint
+  - Lingering Transmutation (Lavos)
+  - Lith A13 Relic
+  - Lith A13 Relic (Radiant)
+  - Lith C15 Relic
+  - Lith C15 Relic (Radiant)
+  - Lith C7 Relic
+  - Lith G14 Relic
+  - Lith G14 Relic (Radiant)
+  - Lith L8 Relic
+  - Lith L8 Relic (Radiant)
+  - Lith S18 Relic
+  - Lith S18 Relic (Radiant)
+  - Lith S19 Relic
+  - Lith S19 Relic (Radiant)
+  - Lith V11 Relic
+  - Lith V11 Relic (Radiant)
+  - Lobotriscid Trophy Blueprint
+  - Lohrin Brace Blueprint
+  - Lokan Armor Set
+  - Loki Chassis Blueprint
+  - Loki Neuroptics Blueprint
+  - Loki Prime Blueprint
+  - Loki Prime Chassis Blueprint
+  - Loki Prime Neuroptics Blueprint
+  - Loki Prime Systems Blueprint
+  - Loki Systems Blueprint
+  - Longwinder Trophy Blueprint
+  - Lovetap Blueprint
+  - Loyal Merulina (Yareli)
+  - Lua Lens Blueprint
+  - Mach Crash (Gauss)
+  - Machete Blueprint
+  - Macro Arcroid Blueprint
+  - Macro Thymoid Blueprint
+  - Mag Chassis Blueprint
+  - Mag Neuroptics Blueprint
+  - Mag Prime Blueprint
+  - Mag Prime Chassis Blueprint
+  - Mag Prime Neuroptics Blueprint
+  - Mag Prime Systems Blueprint
+  - Mag Systems Blueprint
+  - Magistar Blueprint
+  - Magnetized Discharge (Mag)
+  - Magnus Prime Barrel
+  - Magnus Prime Blueprint
+  - Magnus Prime Receiver
+  - Mandachord Blueprint
+  - Mandonel Barrel
+  - Mandonel Blueprint
+  - Mandonel Receiver
+  - Mandonel Stock
+  - Manifold Bond (Robotic)
+  - Mantis Avionics Blueprint
+  - Mantis Engines Blueprint
+  - Mantis Fuselage Blueprint
+  - Marquise Thyst X3 Blueprint
+  - Marquise Veridos x10 Blueprint
+  - Martyr Symbiosis (Vulpaphyla)
+  - Masseter Prime Blade
+  - Masseter Prime Blueprint
+  - Masseter Prime Handle
+  - Mawfish Trophy Blueprint
+  - Mending Splinters (Gara)
+  - Meridian Armor Set
+  - Merulina Guardian (Yareli)
+  - Mesa Chassis Blueprint
+  - Mesa Neuroptics Blueprint
+  - Mesa Prime Blueprint
+  - Mesa Prime Chassis Blueprint
+  - Mesa Prime Neuroptics Blueprint
+  - Mesa Prime Systems Blueprint
+  - Mesa Systems Blueprint
+  - Mesa's Waltz (Mesa)
+  - Mesmer Shield (Revenant)
+  - Meso A12 Relic
+  - Meso A12 Relic (Radiant)
+  - Meso C11 Relic
+  - Meso C11 Relic (Radiant)
+  - Meso D8 Relic
+  - Meso D8 Relic (Radiant)
+  - Meso D9 Relic
+  - Meso D9 Relic (Radiant)
+  - Meso K9 Relic
+  - Meso K9 Relic (Radiant)
+  - Meso N11 Relic
+  - Meso V13 Relic
+  - Meso V13 Relic (Radiant)
+  - Meso V17 Relic
+  - Meso V17 Relic (Radiant)
+  - Meso Y2 Relic
+  - Meso Y2 Relic (Radiant)
+  - Mewan Blueprint
+  - Mind Freak (Nyx)
+  - Mirage Chassis Blueprint
+  - Mirage Neuroptics Blueprint
+  - Mirage Prime Blueprint
+  - Mirage Prime Chassis Blueprint
+  - Mirage Prime Neuroptics Blueprint
+  - Mirage Prime Systems Blueprint
+  - Mirage Systems Blueprint
+  - Mirewinder Trophy Blueprint
+  - Miter Barrel
+  - Miter Blade
+  - Miter Blueprint
+  - Miter Chassis
+  - Miter Handle
+  - Mod Drop Chance Booster
+  - Molecular Fission (Nova)
+  - Momentous Bond (companion)
+  - Monachod Mutagen Blueprint
+  - Morgha Barrel Blueprint
+  - Morgha Blueprint
+  - Morgha Receiver Blueprint
+  - Morgha Stock Blueprint
+  - Mortus Lungfish Trophy Blueprint
+  - Mote Amp Blueprint
+  - Munit Gyro Blueprint
+  - Murkray Trophy Blueprint
+  - Muzzle Flash (Mesa)
+  - Mystic Bond (Companion)
+  - Myxostomata Trophy Blueprint
+  - Nagantaka Prime Barrel
+  - Nagantaka Prime Blueprint
+  - Nagantaka Prime Receiver
+  - Nagantaka Prime Stock
+  - Nami Skyla Prime Blade
+  - Nami Skyla Prime Blueprint
+  - Nami Skyla Prime Handle
+  - Narin Blueprint
+  - Narin Chassis Blueprint
+  - Narin Neuroptics Blueprint
+  - Narin Systems Blueprint
+  - Nautilus Blueprint
+  - Nautilus Carapace
+  - Nautilus Cerebrum
+  - Nautilus Prime Blueprint
+  - Nautilus Prime Carapace
+  - Nautilus Prime Cerebrum
+  - Nautilus Prime Systems
+  - Nautilus Systems
+  - Needlenose Blueprint
+  - Negation Armor (Inaros)
+  - Nekros Chassis Blueprint
+  - Nekros Neuroptics Blueprint
+  - Nekros Prime Blueprint
+  - Nekros Prime Chassis Blueprint
+  - Nekros Prime Neuroptics Blueprint
+  - Nekros Prime Systems Blueprint
+  - Nekros Systems Blueprint
+  - Neo A16 Relic
+  - Neo A16 Relic (Radiant)
+  - Neo C10 Relic
+  - Neo C10 Relic (Radiant)
+  - Neo C11 Relic
+  - Neo C11 Relic (Radiant)
+  - Neo C7 Relic
+  - Neo C7 Relic (Radiant)
+  - Neo K10 Relic
+  - Neo K10 Relic (Radiant)
+  - Neo V13 Relic
+  - Neo V13 Relic (Radiant)
+  - Neo V9 Relic
+  - Neo Y2 Relic
+  - Neo Y2 Relic (Radiant)
+  - Nepheri Blueprint
+  - Neptune Resource Bundle
+  - Neutralizing Justice (Miter)
+  - Neutron Star (Nova)
+  - Nezha Prime Blueprint
+  - Nezha Prime Chassis Blueprint
+  - Nezha Prime Neuroptics Blueprint
+  - Nezha Prime Systems Blueprint
+  - Nidus Blueprint
+  - Nidus Chassis Blueprint
+  - Nidus Neuroptics Blueprint
+  - Nidus Prime Blueprint
+  - Nidus Prime Chassis Blueprint
+  - Nidus Prime Neuroptics Blueprint
+  - Nidus Prime Systems Blueprint
+  - Nidus Systems Blueprint
+  - Nikana Prime Blade
+  - Nikana Prime Blueprint
+  - Nikana Prime Hilt
+  - Ninkondi Prime Blueprint
+  - Ninkondi Prime Chain
+  - Ninkondi Prime Handle
+  - Noctua Swarm (Dante)
+  - Nokko Blueprint
+  - Nokko Chassis Blueprint
+  - Nokko Neuroptics Blueprint
+  - Nokko Systems Blueprint
+  - Norg Trophy Blueprint
+  - Nova Chassis Blueprint
+  - Nova Neuroptics Blueprint
+  - Nova Prime Blueprint
+  - Nova Prime Chassis Blueprint
+  - Nova Prime Neuroptics Blueprint
+  - Nova Prime Systems Blueprint
+  - Nova Systems Blueprint
+  - Nychus Moa Blueprint
+  - Nyx Chassis Blueprint
+  - Nyx Neuroptics Blueprint
+  - Nyx Prime Blueprint
+  - Nyx Prime Chassis Blueprint
+  - Nyx Prime Neuroptics Blueprint
+  - Nyx Prime Systems Blueprint
+  - Nyx Systems Blueprint
+  - Oberon Chassis Blueprint
+  - Oberon Neuroptics Blueprint
+  - Oberon Prime Blueprint
+  - Oberon Prime Chassis Blueprint
+  - Oberon Prime Neuroptics Blueprint
+  - Oberon Prime Systems Blueprint
+  - Oberon Systems Blueprint
+  - Octavia Blueprint
+  - Octavia Chassis Blueprint
+  - Octavia Neuroptics Blueprint
+  - Octavia Prime Blueprint
+  - Octavia Prime Chassis Blueprint
+  - Octavia Prime Neuroptics Blueprint
+  - Octavia Prime Systems Blueprint
+  - Octavia Systems Blueprint
+  - Odonata Blueprint
+  - Odonata Harness Blueprint
+  - Odonata Prime Blueprint
+  - Odonata Prime Harness Blueprint
+  - Odonata Prime Systems Blueprint
+  - Odonata Prime Wings Blueprint
+  - Odonata Systems Blueprint
+  - Odonata Wings Blueprint
+  - Okina Prime Blade
+  - Okina Prime Blueprint
+  - Okina Prime Handle
+  - Oloro Moa Blueprint
+  - Omikuji's Fortune (Koumei)
+  - Omni Forma Blueprint
+  - Omni Forma*
+  - Onorix Blade
+  - Onorix Handle
+  - Onos Blueprint
+  - Ooltha Blueprint
+  - Oraxia Blueprint
+  - Oraxia Chassis Blueprint
+  - Oraxia Neuroptics Blueprint
+  - Oraxia Systems Blueprint
+  - Ore Gaze (Atlas)
+  - Orokin Catalyst Blueprint
+  - Orokin Reactor Blueprint
+  - Orthos Blueprint
+  - Orthos Prime Blade
+  - Orthos Prime Blueprint
+  - Orthos Prime Handle
+  - Orvius Blade
+  - Orvius Blueprint
+  - Orvius Disc
+  - Ostimyr Trophy Blueprint
+  - Ostron Armor Set
+  - Outrider Cuirass Blueprint
+  - Outrider Greaves Blueprint
+  - Outrider Mask Blueprint
+  - Outrider Pauldrons Blueprint
+  - Oxylus Blueprint
+  - Pacifying Bolts (Nyx)
+  - Palmaris Blueprint
+  - Pandero Prime Barrel
+  - Pandero Prime Blueprint
+  - Pandero Prime Receiver
+  - Pangolin Prime Blade
+  - Pangolin Prime Blueprint
+  - Pangolin Prime Handle
+  - Panthera Prime Barrel
+  - Panthera Prime Blueprint
+  - Panthera Prime Receiver
+  - Panthera Prime Stock
+  - Para Moa Blueprint
+  - Parallax Avionics Blueprint
+  - Parallax Engines Blueprint
+  - Parallax Fuselage Blueprint
+  - Parasitic Vitality (Nidus)
+  - Paris Prime Blueprint
+  - Paris Prime Grip
+  - Paris Prime Lower Limb
+  - Paris Prime String
+  - Paris Prime Upper Limb
+  - Partitioned Mallet (Octavia)
+  - Path of Statues (Atlas)
+  - Pathocyst Blade
+  - Pathocyst Blueprint
+  - Pathocyst Subcortex
+  - Peaceful Provocation (Equinox)
+  - Pencha Scaffold Blueprint
+  - Pennant Blueprint
+  - Perigale Barrel
+  - Perigale Blueprint
+  - Perigale Prime Barrel
+  - Perigale Prime Blueprint
+  - Perigale Prime Receiver
+  - Perigale Prime Stock
+  - Perigale Receiver
+  - Perigale Stock
+  - Perrin Armor Set
+  - Peye Blueprint
+  - Phaedra Barrel
+  - Phaedra Receiver
+  - Phaedra Stock
+  - Phahd Scaffold Blueprint
+  - Phantasma Prime Barrel
+  - Phantasma Prime Blueprint
+  - Phantasma Prime Receiver
+  - Phantasma Prime Stock
+  - Phase Specter Blueprint
+  - Phazor Gyro Blueprint
+  - Phenmor Blueprint
+  - Pherliac Pods Blueprint
+  - Phijar Mutagen Blueprint
+  - Phoenix Renewal (Oberon)
+  - Photon Repeater (Vauban)
+  - Piercing Navigator (Ivara)
+  - Piercing Roar (Rhino)
+  - Pilfering Strangledome (Khora)
+  - Pilfering Swarm (Hydroid)
+  - Plaga Brace Blueprint
+  - Plagen Antigen Blueprint
+  - Plague Akwin Blueprint
+  - Plague Bokwin Blueprint
+  - Plague Keewar Blueprint
+  - Plague Kripath Blueprint
+  - Pluto Resource Bundle
+  - Pool Of Life (Trinity)
+  - Powercell
+  - Poxi Antigen Blueprint
+  - Praedos Blueprint
+  - Prey of Dynar (Voruna)
+  - Pride Blade Blueprint
+  - Pride Blueprint
+  - Pride Handle Blueprint
+  - Primal Rage (Wukong)
+  - Prismatic Companion (Citrine)
+  - Prolonged Paralysis (Valkyr)
+  - Propa Scaffold Blueprint
+  - Protea Blueprint
+  - Protea Chassis Blueprint
+  - Protea Neuroptics Blueprint
+  - Protea Prime Blueprint
+  - Protea Prime Chassis Blueprint
+  - Protea Prime Neuroptics Blueprint
+  - Protea Prime Systems Blueprint
+  - Protea Systems Blueprint
+  - Purged Dagonic X10 Blueprint
+  - Purified Heciphron X10 Blueprint
+  - Pyrana Prime Barrel
+  - Pyrana Prime Blueprint
+  - Pyrana Prime Receiver
+  - Pyroclastic Flow (Nezha)
+  - Pyrotic Alloy x20 Blueprint
+  - Qorvex Chassis Blueprint
+  - Qorvex Neuroptics Blueprint
+  - Qorvex Systems Blueprint
+  - Quartakk Blueprint
+  - Quassus Blueprint
+  - Quassus Prime Blade
+  - Quassus Prime Blueprint
+  - Quassus Prime Handle
+  - Quellor Blueprint
+  - Rabvee Blueprint
+  - Radian Sentirum x3 Blueprint
+  - Radiant Finish (Excalibur)
+  - Radiant Zodian X3 Blueprint
+  - Rahn Prism Blueprint
+  - Ramble Blueprint
+  - Ramflare Blueprint
+  - Raplak Prism Blueprint
+  - Rathbone Handle
+  - Rathbone Head
+  - Rattleguts Blueprint
+  - Razor Mortar (Caliban)
+  - Razorwing Blitz (Titania)
+  - Reactive Storm (Baruuk)
+  - Reaper Prime Blade
+  - Reaper Prime Blueprint
+  - Reaper Prime Handle
+  - Reaping Chakram (Nezha)
+  - Recaster Trophy Blueprint
+  - Reconifex Barrel Blueprint
+  - Reconifex Blueprint
+  - Reconifex Receiver Blueprint
+  - Reconifex Stock Blueprint
+  - Recrystalize (Citrine)
+  - Red Veil Armor Set
+  - Redeemer Prime Blade
+  - Redeemer Prime Blueprint
+  - Redeemer Prime Handle
+  - Regenerative Molt (Saryn)
+  - Region Resource
+  - Reinforced Bond (companion)
+  - Reinforcing Stomp (Rhino)
+  - Relic Pack (3 x Random Void Relics)
+  - Repair Dispensary (Protea)
+  - Repelling Bastille (Vauban)
+  - Reroot Rampage (Nokko)
+  - Resonance (Banshee)
+  - Resonating Quake (Banshee)
+  - Resource Drop Chance Booster
+  - Restorative Bond (Companion)
+  - Return: 105,000
+  - Return: 175,000
+  - Return: 250,000
+  - Revealing Spores (Saryn)
+  - Revenant Blueprint
+  - Revenant Chassis Blueprint
+  - Revenant Neuroptics Blueprint
+  - Revenant Prime Blueprint
+  - Revenant Prime Chassis Blueprint
+  - Revenant Prime Neuroptics Blueprint
+  - Revenant Prime Systems Blueprint
+  - Revenant Systems Blueprint
+  - Reverse Rotorswell (Gyre)
+  - Rhino Chassis Blueprint
+  - Rhino Neuroptics Blueprint
+  - Rhino Prime Blueprint
+  - Rhino Prime Chassis Blueprint
+  - Rhino Prime Neuroptics Blueprint
+  - Rhino Prime Systems Blueprint
+  - Rhino Systems Blueprint
+  - Rhythm Guard (Temple)
+  - Rift Haven (Limbo)
+  - Rift Torrent (Limbo)
+  - Riot-848 Barrel Blueprint
+  - Riot-848 Blueprint
+  - Riot-848 Receiver Blueprint
+  - Riot-848 Stock Blueprint
+  - Rising Storm (Ash)
+  - Rousing Plunder (Hydroid)
+  - Rubble Heap (Atlas)
+  - Rubico Prime Barrel
+  - Rubico Prime Blueprint
+  - Rubico Prime Receiver
+  - Rubico Prime Stock
+  - Ruhang Blueprint
+  - Ruhang Ii Blueprint
+  - Runway Blueprint
+  - Ruvox Blade Blueprint
+  - Ruvox Blueprint
+  - Ruvox Glove Blueprint
+  - Safeguard (Nezha)
+  - Safeguard Switch (Loki)
+  - Sagek Prime Barrel Blueprint
+  - Sagek Prime Blueprint
+  - Sagek Prime Receiver Blueprint
+  - Sapcaddy Trophy Blueprint
+  - Sarofang Blade
+  - Sarofang Blueprint
+  - Sarofang Handle
+  - Sarofang Prime Blade
+  - Sarofang Prime Blueprint
+  - Sarofang Prime Handle
+  - Saryn Chassis Blueprint
+  - Saryn Neuroptics Blueprint
+  - Saryn Prime Blueprint
+  - Saryn Prime Chassis Blueprint
+  - Saryn Prime Neuroptics Blueprint
+  - Saryn Prime Systems Blueprint
+  - Saryn Systems Blueprint
+  - Saturn Resource Bundle
+  - Savage Silence (Banshee)
+  - Savior Decoy (Loki)
+  - Scattered Justice (Hek)
+  - Scimitar Avionics Blueprint
+  - Scimitar Engines Blueprint
+  - Scimitar Fuselage Blueprint
+  - Scindo Blueprint
+  - Scindo Prime Blade
+  - Scindo Prime Blueprint
+  - Scindo Prime Handle
+  - Scourge Prime Barrel
+  - Scourge Prime Blade
+  - Scourge Prime Blueprint
+  - Scourge Prime Handle
+  - Scrubber Trophy Blueprint
+  - Scyotid Barrel Blueprint
+  - Scyotid Blueprint
+  - Scyotid Gauntlet Blueprint
+  - Seekalla Blueprint
+  - Seeker of Truth
+  - Seeking Shuriken (Ash)
+  - Seer Barrel
+  - Seer Blueprint
+  - Seer Receiver
+  - Seismic Bond (Companion)
+  - Sepfahn Blueprint
+  - Sepulcrum Barrel Blueprint
+  - Sepulcrum Blueprint
+  - Sepulcrum Receiver Blueprint
+  - Sequence Burn (Spectra)
+  - Sevagoth Blueprint
+  - Sevagoth Chassis Blueprint
+  - Sevagoth Neuroptics Blueprint
+  - Sevagoth Prime Blueprint
+  - Sevagoth Prime Chassis Blueprint
+  - Sevagoth Prime Neuroptics Blueprint
+  - Sevagoth Prime Systems Blueprint
+  - Sevagoth Systems Blueprint
+  - Shade Prime Blueprint
+  - Shade Prime Carapace
+  - Shade Prime Cerebrum
+  - Shade Prime Systems
+  - Shadow Haze (Sevagoth)
+  - Sharrac Trophy Blueprint
+  - Shattered Storm (Gara)
+  - Shattering Justice (Sobek)
+  - Shedu Barrel
+  - Shedu Blueprint
+  - Shedu Chassis
+  - Shedu Handle
+  - Shedu Receiver
+  - Shield of Shadows (Nekros)
+  - Shock Trooper (Volt)
+  - Shocking Speed (Volt)
+  - Shocking Step Ephemera Blueprint
+  - Shraksun Scaffold Blueprint
+  - Shrewd Blueprint
+  - Shtung Blueprint
+  - Shwaak Prism Blueprint
+  - Sicarus Prime Barrel
+  - Sicarus Prime Blueprint
+  - Sicarus Prime Receiver
+  - Sigma & Octantis Blueprint
+  - Silva & Aegis Prime Blade
+  - Silva & Aegis Prime Blueprint
+  - Silva & Aegis Prime Guard
+  - Silva & Aegis Prime Hilt
+  - Simaris Offerings Console
+  - Simaris Research Console
+  - Simulor Blueprint
+  - Sirius & Orion Blueprint
+  - Sirius & Orion Chassis Blueprint
+  - Sirius & Orion Neuroptics Blueprint
+  - Sirius & Orion Systems Blueprint
+  - Slap Blueprint
+  - Slapneedle Blueprint
+  - Slaytra Blueprint
+  - Smelter Apparel Blueprint
+  - Smelter Cuirass Blueprint
+  - Smelter Greaves Blueprint
+  - Smelter Mask Blueprint
+  - Smelter Pauldrons Blueprint
+  - Smite Infusion (Oberon)
+  - Smoke Shadow (Ash)
+  - Smoking Body Ephemera Blueprint
+  - Smooth Phasmin X10 Blueprint
+  - Snipetron Blueprint
+  - Solaris Armor Set
+  - Soma Prime Barrel
+  - Soma Prime Blueprint
+  - Soma Prime Receiver
+  - Soma Prime Stock
+  - Sonic Fracture (Banshee)
+  - Sonicor Blueprint
+  - Soul Survivor (Nekros)
+  - Sparkfire Blueprint
+  - Spectra Vandal Barrel
+  - Spectra Vandal Blueprint
+  - Spectra Vandal Chassis
+  - Spectra Vandal Handle
+  - Spectral Spirit (Dagath)
+  - Spectrosiphon (Gara)
+  - Spellbound Harvest (Titania)
+  - Spinnerex Blade Blueprint
+  - Spinnerex Blueprint
+  - Spinnerex Handle Blueprint
+  - Spinnerex String Blueprint
+  - Spira Prime Blade
+  - Spira Prime Blueprint
+  - Spira Prime Pouch
+  - Splat Blueprint
+  - Sporelacer Blueprint
+  - Sporothrix Barrel
+  - Sporothrix Blueprint
+  - Sporothrix Receiver
+  - Sporothrix Stock
+  - Squad Ammo Restore (Large) Blueprint
+  - Squad Energy Restore (Large) Blueprint
+  - Squad Health Restore (Large) Blueprint
+  - Squad Shield Restore (Large) Blueprint
+  - Staggering Shield (Mesa)
+  - Stahlta Barrel
+  - Stahlta Blueprint
+  - Stahlta Receiver
+  - Stahlta Stock
+  - Star Amarast X6 Blueprint
+  - Star Crimzian x6 Blueprint
+  - Steadyslam Blueprint
+  - Steflos Barrel
+  - Steflos Blueprint
+  - Steflos Prime Barrel
+  - Steflos Prime Blueprint
+  - Steflos Prime Receiver
+  - Steflos Prime Stock
+  - Steflos Receiver
+  - Steflos Stock
+  - Stellated Necrathene X10 Blueprint
+  - Step Tens Blueprint
+  - Stinging Truth (Viper)
+  - Stitch Blueprint
+  - Stockpiled Blight (Kunai)
+  - Stradavar Prime Barrel
+  - Stradavar Prime Blueprint
+  - Stradavar Prime Receiver
+  - Stradavar Prime Stock
+  - Stropha Barrel
+  - Stropha Blade
+  - Stropha Blueprint
+  - Stropha Receiver
+  - Stropha Stock
+  - Strun Prime Barrel
+  - Strun Prime Blueprint
+  - Strun Prime Receiver
+  - Strun Prime Stock
+  - Stubba Blueprint
+  - Stug Blueprint
+  - Styanax Blueprint
+  - Styanax Chassis Blueprint
+  - Styanax Neuroptics Blueprint
+  - Styanax Prime Blueprint
+  - Styanax Prime Chassis Blueprint
+  - Styanax Prime Neuroptics Blueprint
+  - Styanax Prime Systems Blueprint
+  - Styanax Systems Blueprint
+  - Suda Armor Set
+  - Suo Brace Blueprint
+  - Surging Blades (Yareli)
+  - Surging Dash (Excalibur)
+  - Swift Bite (Lavos)
+  - Swiftfire Blueprint
+  - Swing Line (Valkyr)
+  - Sybaris Prime Barrel
+  - Sybaris Prime Blueprint
+  - Sybaris Prime Receiver
+  - Sybaris Prime Stock
+  - Synathid Trophy Blueprint
+  - Syndicate Relic Pack (3 x Random Void Relics)
+  - Syndicate Relic Pack (3 X Random Void Relics)
+  - Syndicate Void Relic Pack (3 X Random Void Relics)
+  - Synthesis Scanner x 25
+  - Tak & Lug Blade
+  - Tak & Lug Blueprint
+  - Tak & Lug Guard
+  - Tak & Lug Handle
+  - Tandem Bond (Beast)
+  - Target Fixation (Zephyr)
+  - Tatsu Prime Blade
+  - Tatsu Prime Blueprint
+  - Tatsu Prime Handle
+  - Tauforged Amber Archon Shard
+  - Tauforged Azure Archon Shard
+  - Tauforged Crimson Archon Shard
+  - Tauforged Emerald Archon Shard
+  - Tauforged Topaz Archon Shard
+  - Tauforged Violet Archon Shard
+  - Tazicor Blueprint
+  - Tear Azurite x10 Blueprint
+  - Tectonic Fracture (Atlas)
+  - Teeming Virulence (Nidus)
+  - Tekko Prime Blade
+  - Tekko Prime Blueprint
+  - Tekko Prime Gauntlet
+  - Teleport Rush (Ash)
+  - Tempered Bapholite X20 Blueprint
+  - Temple Blueprint
+  - Temple Chassis Blueprint
+  - Temple Neuroptics Blueprint
+  - Temple Systems Blueprint
+  - Temporal Artillery (Protea)
+  - Temporal Erosion (Protea)
+  - Tenacious Bond (companion)
+  - Tenora Prime Barrel
+  - Tenora Prime Blueprint
+  - Tenora Prime Receiver
+  - Tenora Prime Stock
+  - Tesla Bank (Vauban)
+  - Tethron Antigen Blueprint
+  - Tharros Lethality (Styanax)
+  - Thaumic Distillate X20 Blueprint
+  - The Perrin Sequence Stencil
+  - The Relentless Lost (Xaku)
+  - Thermal Transfer (Gauss)
+  - Thirst for Knowledge
+  - Thrall Pact (Revenant)
+  - Thugs Blueprint
+  - Thunderdrum Blueprint
+  - Thymoid Blueprint
+  - Tian Bracket Blueprint
+  - Tiberon Prime Barrel
+  - Tiberon Prime Blueprint
+  - Tiberon Prime Receiver
+  - Tiberon Prime Stock
+  - Tidal Impunity (Hydroid)
+  - Tigris Prime Barrel
+  - Tigris Prime Blueprint
+  - Tigris Prime Receiver
+  - Tigris Prime Stock
+  - Tink Trophy Blueprint
+  - Tipedo Prime Blueprint
+  - Tipedo Prime Handle
+  - Tipedo Prime Ornament
+  - Titania Blueprint
+  - Titania Chassis Blueprint
+  - Titania Neuroptics Blueprint
+  - Titania Prime Blueprint
+  - Titania Prime Chassis Blueprint
+  - Titania Prime Neuroptics Blueprint
+  - Titania Prime Systems Blueprint
+  - Titania Systems Blueprint
+  - Titanic Rumbler (Atlas)
+  - Tombfinger Blueprint
+  - Tonkkatt Blade
+  - Tonkkatt Blueprint
+  - Tonkkatt Handle
+  - Topaz Archon Shard
+  - Total Eclipse (Mirage)
+  - Toxic Blight (Mire)
+  - Toxic Sequence (Acrid)
+  - Tralok Trophy Blueprint
+  - Transistor Shield (Volt)
+  - Trapezium Xenorhast X3 Blueprint
+  - Travocyte Alloy X20 Blueprint
+  - Tremor Blueprint
+  - Tribunal (Harrow)
+  - Trinity Chassis Blueprint
+  - Trinity Neuroptics Blueprint
+  - Trinity Prime Blueprint
+  - Trinity Prime Chassis Blueprint
+  - Trinity Prime Neuroptics Blueprint
+  - Trinity Prime Systems Blueprint
+  - Trinity Systems Blueprint
+  - Tromyzon Trophy Blueprint
+  - Trumna Barrel Blueprint
+  - Trumna Blueprint
+  - Trumna Prime Barrel
+  - Trumna Prime Blueprint
+  - Trumna Prime Receiver
+  - Trumna Prime Stock
+  - Trumna Receiver Blueprint
+  - Trumna Stock Blueprint
+  - Trux Gyro Blueprint
+  - Twin Gremlins Blueprint
+  - Twin Kavats Blueprint
+  - Twin Kohmak Blueprint
+  - Two-Sloops Blueprint
+  - Tyli Gyro Blueprint
+  - Ulfrun's Endurance (Voruna)
+  - Ulnaris Blueprint
+  - Umbra Forma*
+  - Untime Rift (Xaku)
+  - Uriel Chassis Blueprint
+  - Uriel Neuroptics Blueprint
+  - Uriel Systems Blueprint
+  - Vadarya Prime Barrel
+  - Vadarya Prime Blueprint
+  - Vadarya Prime Receiver
+  - Vadarya Prime Stock
+  - Vahd Apparel Blueprint
+  - Vahd Cuirass Blueprint
+  - Vahd Greaves Blueprint
+  - Vahd Mask Blueprint
+  - Vahd Pauldrons Blueprint
+  - Valence Formation (Lavos)
+  - Valkyr Chassis Blueprint
+  - Valkyr Neuroptics Blueprint
+  - Valkyr Prime Blueprint
+  - Valkyr Prime Chassis Blueprint
+  - Valkyr Prime Neuroptics Blueprint
+  - Valkyr Prime Systems Blueprint
+  - Valkyr Systems Blueprint
+  - Vampire Leech (Trinity)
+  - Vampiric Grasp (Xaku)
+  - Vapor Specter Blueprint
+  - Vargeet Ii Jai Blueprint
+  - Vargeet II Jai Blueprint
+  - Vargeet Ii Ruhang Blueprint
+  - Vargeet II Ruhang Blueprint
+  - Vargeet Jai Blueprint
+  - Vargeet Jai Ii Blueprint
+  - Vargeet Jai II Blueprint
+  - Vargeet Ruhang Blueprint
+  - Vargeet Ruhang Ii Blueprint
+  - Vargeet Ruhang II Blueprint
+  - Vasto Prime Barrel
+  - Vasto Prime Blueprint
+  - Vasto Prime Receiver
+  - Vauban Prime Blueprint
+  - Vauban Prime Chassis Blueprint
+  - Vauban Prime Neuroptics Blueprint
+  - Vauban Prime Systems Blueprint
+  - Vectis Blueprint
+  - Vectis Prime Barrel
+  - Vectis Prime Blueprint
+  - Vectis Prime Receiver
+  - Vectis Prime Stock
+  - Veil Resource Bundle
+  - Velocitus Barrel
+  - Velocitus Receiver
+  - Velocitus Stock
+  - Velox Barrel
+  - Velox Prime Barrel
+  - Velox Prime Blueprint
+  - Velox Prime Receiver
+  - Velox Receiver
+  - Venari Bodyguard (Khora)
+  - Venato Prime Blade
+  - Venato Prime Blueprint
+  - Venato Prime Handle
+  - Venerdo Alloy X20 Blueprint
+  - Venka Prime Blades
+  - Venka Prime Blueprint
+  - Venka Prime Gauntlet
+  - Venom Dose (Saryn)
+  - Vent Pobber Ventikid Apparel Blueprint
+  - Vent Pobber Ventikid Cuirass Blueprint
+  - Vent Pobber Ventikid Greaves Blueprint
+  - Vent Pobber Ventikid Mask Blueprint
+  - Vent Pobber Ventikid Pauldrons Blueprint
+  - Vent Rat Cuirass Blueprint
+  - Vent Rat Greaves Blueprint
+  - Vent Rat Mask Blueprint
+  - Vent Rat Pauldrons Blueprint
+  - Ventkids Ginty Sigil
+  - Venus Resource Bundle
+  - Verdilac Blueprint
+  - Veritux Blueprint
+  - Vermisplicer Blueprint
+  - Vesper 77 Barrel Blueprint
+  - Vesper 77 Blueprint
+  - Vesper 77 Handle Blueprint
+  - Vesper 77 Receiver Blueprint
+  - Vexing Retaliation (Chroma)
+  - Vicious Bond (Companion)
+  - Vinquibus Barrel Blueprint
+  - Vinquibus Blade Blueprint
+  - Vinquibus Blueprint
+  - Vinquibus Receiver Blueprint
+  - Vinquibus Stock Blueprint
+  - Violet Archon Shard
+  - Viral Tempest (Hydroid)
+  - Virox Antigen Blueprint
+  - Vitreospina Trophy Blueprint
+  - Vitrica Blueprint
+  - Voidrig Capsule Blueprint
+  - Voidrig Casing Blueprint
+  - Voidrig Engine Blueprint
+  - Voidrig Necramech Blueprint
+  - Voidrig Weapon Pod Blueprint
+  - Volatile Parasite (Predasite)
+  - Volatile Recompense (Kullervo)
+  - Volnus Prime Blueprint
+  - Volnus Prime Handle
+  - Volnus Prime Head
+  - Volt Prime Blueprint
+  - Volt Prime Chassis Blueprint
+  - Volt Prime Neuroptics Blueprint
+  - Volt Prime Systems Blueprint
+  - Voltage Sequence (Lanka)
+  - Voruna Blueprint
+  - Voruna Chassis Blueprint
+  - Voruna Neuroptics Blueprint
+  - Voruna Prime Blueprint
+  - Voruna Prime Chassis Blueprint
+  - Voruna Prime Neuroptics Blueprint
+  - Voruna Prime Systems Blueprint
+  - Voruna Systems Blueprint
+  - Vosfor Cache (200x)
+  - Vulcax Blueprint
+  - War Blueprint
+  - Warding Thurible (Harrow)
+  - Warrior's Rest (Excalibur Umbra)
+  - Winds of Purity (Furis)
+  - Wingnut Blueprint
+  - Wisp Blueprint
+  - Wisp Chassis Blueprint
+  - Wisp Neuroptics Blueprint
+  - Wisp Prime Blueprint
+  - Wisp Prime Chassis Blueprint
+  - Wisp Prime Neuroptics Blueprint
+  - Wisp Prime Systems Blueprint
+  - Wisp Systems Blueprint
+  - Wolf Sledge Blueprint
+  - Wolf Sledge Handle
+  - Wolf Sledge Head
+  - Wolf Sledge Motor
+  - Wrath Blade Blueprint
+  - Wrath Blueprint
+  - Wrath Handle Blueprint
+  - Wrath of Ukko (Kullervo)
+  - Wrecking Wall (Qorvex)
+  - Wukong Prime Blueprint
+  - Wukong Prime Chassis Blueprint
+  - Wukong Prime Neuroptics Blueprint
+  - Wukong Prime Systems Blueprint
+  - Wyrm Prime Blueprint
+  - Wyrm Prime Carapace
+  - Wyrm Prime Cerebrum
+  - Wyrm Prime Systems
+  - Xaku Blueprint
+  - Xaku Chassis Blueprint
+  - Xaku Neuroptics Blueprint
+  - Xaku Prime Blueprint
+  - Xaku Prime Chassis Blueprint
+  - Xaku Prime Neuroptics Blueprint
+  - Xaku Prime Systems Blueprint
+  - Xaku Systems Blueprint
+  - Xiphos Avionics Blueprint
+  - Xiphos Engines Blueprint
+  - Xiphos Fuselage Blueprint
+  - Xoris Blade
+  - Xoris Blueprint
+  - Xoris Core
+  - Xoris Handle
+  - Yareli Blueprint
+  - Yareli Prime Blueprint
+  - Yareli Prime Chassis Blueprint
+  - Yareli Prime Neuroptics Blueprint
+  - Yareli Prime Systems Blueprint
+  - Yogwun Trophy Blueprint
+  - Zakti Prime Barrel
+  - Zakti Prime Blueprint
+  - Zakti Prime Receiver
+  - Zarim Mutagen Blueprint
+  - Zazvat-Kar (Akstiletto Prime)
+  - Zenistar Blueprint
+  - Zenith Blueprint
+  - Zephyr Prime Blueprint
+  - Zephyr Prime Chassis Blueprint
+  - Zephyr Prime Neuroptics Blueprint
+  - Zephyr Prime Systems Blueprint
+  - Zhuge Prime Barrel
+  - Zhuge Prime Blueprint
+  - Zhuge Prime Grip
+  - Zhuge Prime Receiver
+  - Zhuge Prime String
+  - Zid-An Asheir
+  - Zid-An Haras
+  - Zid-An Osbok
+  - Zid-An Sek-Eel
+  - Zid-An Uskos
+  - Zip Blueprint
+  - Zipfire Blueprint
+  - Zipneedle Blueprint
+  - Zylok Prime Barrel
+  - Zylok Prime Blueprint
+  - Zylok Prime Receiver
+  - Zymos Barrel Blueprint
+  - Zymos Blueprint
+  - Zymos Receiver Blueprint

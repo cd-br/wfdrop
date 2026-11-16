@@ -1,1 +1,0 @@
-export function ehNoDeSobrevivencia(e){return"string"==typeof e&&/\(survival\)/i.test(e)}

@@ -1,0 +1,1 @@
+import{normalizarTexto}from"./utils/normalizar.js";function ehAdaptadorIncarnon(n){return normalizarTexto(n).includes("incarnon")}export{ehAdaptadorIncarnon};

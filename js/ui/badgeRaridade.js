@@ -1,0 +1,1 @@
+import{escaparHtml}from"../utils/html.js";import{t}from"../i18n.js";function htmlBadgeRaridade(a){return a?`<span class="badge-raridade badge-raridade--${escaparHtml(a)}">${escaparHtml(t("raridade."+a))}</span>`:""}export{htmlBadgeRaridade};

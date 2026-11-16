@@ -1,0 +1,24 @@
+(async () => {
+  const paginas = [
+    'Module:Enemies/data/grineer','Module:Enemies/data/corpus',
+    'Module:Enemies/data/infestation','Module:Enemies/data/orokin',
+    'Module:Enemies/data/sentient','Module:Enemies/data/stalker',
+    'Module:Enemies/data/narmer','Module:Enemies/data/themurmur',
+    'Module:Enemies/data/techrot','Module:Enemies/data/scaldra',
+    'Module:Enemies/data/anarchs','Module:Enemies/data/unaffiliated',
+    'Module:Missions/data'
+  ];
+  const resultado = {};
+  for (const p of paginas) {
+    const r = await fetch('/index.php?title=' + encodeURIComponent(p) + '&action=raw');
+    const t = await r.text();
+    if (!r.ok || t.trim().startsWith('<')) { console.error('Falhou:', p, r.status); continue; }
+    resultado[p] = t;
+    console.log('OK', p, t.length);
+  }
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob([JSON.stringify(resultado)], {type: 'application/json'}));
+  a.download = 'enfont-locais.json';
+  a.click();
+  console.log('Pronto: ' + Object.keys(resultado).length + ' de ' + paginas.length + ' páginas');
+})();

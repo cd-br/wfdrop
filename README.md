@@ -1,21 +1,19 @@
 Sobre o projeto
 
-O Guia de Drops Warframe é uma ferramenta de busca para encontrar rapidamente onde farmar os itens do jogo.
+O Warframe Drops é uma ferramenta de busca para encontrar onde farmar os itens do jogo e com possibilidade de salvar e ordenar em listas para diversos usos.
 
+Este é um projeto de fã, sem fins comerciais, não afiliado à Digital Extremes.
 
 Créditos
 
-CLÃ TENNOREINFORCEMENTPRIME 
+|CLÃ TENNOREINFORCEMENTPRIME | Desenvolvido por Br.uxão | Agradecimento especial ao Ghestal, o ''Indicador de novas possibilidades''|
 
-Desenvolvido por Br.uxão
+Os dados são fornecidos pela WFCD.
 
+As fichas de inimigos e missões foram adaptadas da WARFRAME Wiki e de seus colaboradores, sob a licença CC BY-NC-SA 3.0.
 
-Fonte dos dados
+os dados foram reorganizados e simplificados para este site. Os dados adaptados continuam sob a mesma licença.
 
-Os dados de drop e de itens são fornecidos pela Warframe Community Developers (WFCD), e são atualizados sempre que a Digital Extremes atualiza o jogo.
+Canal para Contato apenas via discord: > br.uxao e > https://discord.gg/22qZMgB9R3
 
-
-Aviso Este é um projeto de fã, sem fins comerciais, não afiliado à Digital Extremes.
-
-
-Versão: 2.1.2
+Versão: 2.5.1

@@ -1,0 +1,112 @@
+# --- Ferrite ---
+Ferrite | Earth
+Ferrite | Mercury
+Ferrite | Neptune
+Ferrite | Lua
+Ferrite | Zariman
+
+# --- Rubedo ---
+Rubedo | Earth
+Rubedo | Europa
+Rubedo | Pluto
+Rubedo | Phobos
+Rubedo | Sedna
+Rubedo | Lua
+
+# --- Neurodes ---
+Neurodes | Earth
+Neurodes | Deimos
+Neurodes | Eris
+Neurodes | Lua
+
+# --- Detonite Ampule ---
+Detonite Ampule | Earth
+Detonite Ampule | Mercury
+Detonite Ampule | Ceres
+Detonite Ampule | Saturn
+Detonite Ampule | Uranus
+Detonite Ampule | Kuva Fortress
+Detonite Ampule | Sedna
+Detonite Ampule | Lua
+
+# --- Alloy Plate ---
+Alloy Plate | Venus
+Alloy Plate | Ceres
+Alloy Plate | Jupiter
+Alloy Plate | Pluto
+Alloy Plate | Phobos
+Alloy Plate | Sedna
+Alloy Plate | Zariman
+
+# --- Polymer Bundle ---
+Polymer Bundle | Venus
+Polymer Bundle | Mercury
+Polymer Bundle | Uranus
+
+# --- Circuits ---
+Circuits | Venus
+Circuits | Ceres
+Circuits | Kuva Fortress
+
+# --- Fieldron Sample ---
+Fieldron Sample | Venus
+Fieldron Sample | Mars
+Fieldron Sample | Europa
+Fieldron Sample | Neptune
+Fieldron Sample | Pluto
+
+# --- Morphics ---
+Morphics | Mercury
+Morphics | Mars
+Morphics | Europa
+Morphics | Pluto
+Morphics | Phobos
+
+# --- Salvage ---
+Salvage | Mars
+Salvage | Jupiter
+Salvage | Kuva Fortress
+Salvage | Sedna
+
+# --- Gallium ---
+Gallium | Mars
+Gallium | Uranus
+
+# --- Nano Spores ---
+Nano Spores | Deimos
+Nano Spores | Saturn
+Nano Spores | Neptune
+Nano Spores | Eris
+
+# --- Mutagen Sample ---
+Mutagen Sample | Deimos
+Mutagen Sample | Eris
+
+# --- Orokin Cell ---
+Orokin Cell | Deimos
+Orokin Cell | Ceres
+Orokin Cell | Saturn
+
+# --- Hexenon ---
+Hexenon | Jupiter
+
+# --- Neural Sensors ---
+Neural Sensors | Jupiter
+Neural Sensors | Kuva Fortress
+
+# --- Control Module ---
+Control Module | Europa
+Control Module | Neptune
+
+# --- Plastids ---
+Plastids | Saturn
+Plastids | Uranus
+Plastids | Pluto
+Plastids | Eris
+Plastids | Phobos
+
+# --- Voidgel Orb ---
+Voidgel Orb | Zariman
+
+# --- Entrati Lanthorn ---
+Entrati Lanthorn | Zariman

@@ -1,0 +1,35 @@
+# --- Mining: Plains of Eidolon (Earth) ---
+Auron | mineracao | Mining in Plains of Eidolon (Earth) — Red Mining Veins and Thumpers
+Azurite | mineracao | Mining in Plains of Eidolon (Earth) — Blue Mining Veins and Thumpers
+Coprun | mineracao | Mining in Plains of Eidolon (Earth) — Red Mining Veins
+Crimzian | mineracao | Mining in Plains of Eidolon (Earth) — Blue Mining Veins and Thumpers
+Devar | mineracao | Mining in Plains of Eidolon (Earth) — Blue Mining Veins and Thumpers
+Ferros | mineracao | Mining in Plains of Eidolon (Earth) — Red Mining Veins and Thumpers
+Nyth | mineracao | Mining in Plains of Eidolon (Earth) — Blue Mining Veins and Thumper Bulls (rare gem: Advanced Nosam Cutter or Sunpoint Plasma Drill only)
+Pyrol | mineracao | Mining in Plains of Eidolon (Earth) — Red Mining Veins and Thumpers
+Sentirum | mineracao | Mining in Plains of Eidolon (Earth) — Blue Mining Veins and Thumper Bulls (rare gem: Advanced Nosam Cutter or Sunpoint Plasma Drill only)
+Veridos | mineracao | Mining in Plains of Eidolon (Earth) — Blue Mining Veins and Thumpers
+
+# --- Mining: Orb Vallis (Venus) ---
+Amarast | mineracao | Mining in Orb Vallis (Venus) — Blue Mining Veins and Resource Containers
+Axidite | mineracao | Mining in Orb Vallis (Venus) — Red Mining Veins and Resource Containers
+Goblite | mineracao | Mining in Orb Vallis (Venus) — Blue Mining Veins
+Hesperon | mineracao | Mining in Orb Vallis (Venus) — Red Mining Veins and Resource Containers
+Noctrul | mineracao | Mining in Orb Vallis (Venus) — Blue Mining Veins and Resource Containers
+Phasmin | mineracao | Mining in Orb Vallis (Venus) — Blue Mining Veins and Resource Containers
+Thyst | mineracao | Mining in Orb Vallis (Venus) — Blue Mining Veins and the Exploiter Orb (rare gem: Advanced Nosam Cutter or Sunpoint Plasma Drill only)
+Travoride | mineracao | Mining in Orb Vallis (Venus) — Red Mining Veins and Resource Containers
+Venerol | mineracao | Mining in Orb Vallis (Venus) — Red Mining Veins and Resource Containers
+Zodian | mineracao | Mining in Orb Vallis (Venus) — Blue Mining Veins and the Exploiter Orb (rare gem: Advanced Nosam Cutter or Sunpoint Plasma Drill only)
+
+# --- Mining: Cambion Drift (Deimos) ---
+Adramalium | mineracao | Mining in Cambion Drift (Deimos) — Yellow Mining Lesions, Spitia Infested Cysts, and Rolizor Infested Cysts
+Bapholite | mineracao | Mining in Cambion Drift (Deimos) — Yellow Mining Lesions, Rolizor Infested Cysts, and Bonus Vaults in Isolation Vault Bounties
+Dagonic | mineracao | Mining in Cambion Drift (Deimos) — Blue Mining Lesions, Sagiant Entrati Casket, and Bonus Vaults in Isolation Vault Bounties
+Embolos | mineracao | Mining in Cambion Drift (Deimos) — Blue Mining Lesions (rare gem: Advanced Nosam Cutter or Sunpoint Plasma Drill only)
+Heciphron | mineracao | Mining in Cambion Drift (Deimos) — Blue Mining Lesions
+Namalon | mineracao | Mining in Cambion Drift (Deimos) — Yellow Mining Lesions and Bonus Vaults in Isolation Vault Bounties
+Necrathene | mineracao | Mining in Cambion Drift (Deimos) — Blue Mining Lesions and Requiem Obelisks
+Thaumica | mineracao | Mining in Cambion Drift (Deimos) — Yellow Mining Lesions, Requiem Obelisks, and Spitia Infested Cysts
+Tiametrite | mineracao | Mining in Cambion Drift (Deimos) — Blue Mining Lesions, Sagiant Entrati Caskets, and Bonus Vaults in Isolation Vault Bounties
+Xenorhast | mineracao | Mining in Cambion Drift (Deimos) — Blue Mining Lesions (rare gem: Advanced Nosam Cutter or Sunpoint Plasma Drill only)

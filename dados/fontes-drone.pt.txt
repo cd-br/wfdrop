@@ -1,0 +1,112 @@
+# --- Ferrite ---
+Ferrite | Terra
+Ferrite | Mercúrio
+Ferrite | Netuno
+Ferrite | Lua
+Ferrite | Zariman
+
+# --- Rubedo ---
+Rubedo | Terra
+Rubedo | Europa
+Rubedo | Plutão
+Rubedo | Fobos
+Rubedo | Sedna
+Rubedo | Lua
+
+# --- Neurodes ---
+Neurodes | Terra
+Neurodes | Deimos
+Neurodes | Éris
+Neurodes | Lua
+
+# --- Detonite Ampule ---
+Detonite Ampule | Terra
+Detonite Ampule | Mercúrio
+Detonite Ampule | Ceres
+Detonite Ampule | Saturno
+Detonite Ampule | Urano
+Detonite Ampule | Fortaleza Kuva
+Detonite Ampule | Sedna
+Detonite Ampule | Lua
+
+# --- Alloy Plate ---
+Alloy Plate | Vênus
+Alloy Plate | Ceres
+Alloy Plate | Júpiter
+Alloy Plate | Plutão
+Alloy Plate | Fobos
+Alloy Plate | Sedna
+Alloy Plate | Zariman
+
+# --- Polymer Bundle ---
+Polymer Bundle | Vênus
+Polymer Bundle | Mercúrio
+Polymer Bundle | Urano
+
+# --- Circuits ---
+Circuits | Vênus
+Circuits | Ceres
+Circuits | Fortaleza Kuva
+
+# --- Fieldron Sample ---
+Fieldron Sample | Vênus
+Fieldron Sample | Marte
+Fieldron Sample | Europa
+Fieldron Sample | Netuno
+Fieldron Sample | Plutão
+
+# --- Morphics ---
+Morphics | Mercúrio
+Morphics | Marte
+Morphics | Europa
+Morphics | Plutão
+Morphics | Fobos
+
+# --- Salvage ---
+Salvage | Marte
+Salvage | Júpiter
+Salvage | Fortaleza Kuva
+Salvage | Sedna
+
+# --- Gallium ---
+Gallium | Marte
+Gallium | Urano
+
+# --- Nano Spores ---
+Nano Spores | Deimos
+Nano Spores | Saturno
+Nano Spores | Netuno
+Nano Spores | Éris
+
+# --- Mutagen Sample ---
+Mutagen Sample | Deimos
+Mutagen Sample | Éris
+
+# --- Orokin Cell ---
+Orokin Cell | Deimos
+Orokin Cell | Ceres
+Orokin Cell | Saturno
+
+# --- Hexenon ---
+Hexenon | Júpiter
+
+# --- Neural Sensors ---
+Neural Sensors | Júpiter
+Neural Sensors | Fortaleza Kuva
+
+# --- Control Module ---
+Control Module | Europa
+Control Module | Netuno
+
+# --- Plastids ---
+Plastids | Saturno
+Plastids | Urano
+Plastids | Plutão
+Plastids | Éris
+Plastids | Fobos
+
+# --- Voidgel Orb ---
+Voidgel Orb | Zariman
+
+# --- Entrati Lanthorn ---
+Entrati Lanthorn | Zariman

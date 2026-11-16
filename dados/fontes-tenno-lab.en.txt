@@ -1,0 +1,46 @@
+Akstiletto | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: secondary weapon
+Zakti | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: secondary weapon
+Sybaris | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: primary weapon
+Venka | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Sybaris already researched. Category: melee weapon
+Gunsen | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Venka already researched. Category: melee weapon
+Veldt | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Sybaris already researched. Category: primary weapon
+Tenora | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Sybaris already researched. Category: primary weapon
+Pyrana | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: secondary weapon
+Nikana | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: melee weapon
+Daikyu | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: primary weapon
+Baza | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: primary weapon
+Attica | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: primary weapon
+Anku | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Akstiletto already researched. Category: melee weapon
+Cassowar | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Anku already researched. Category: melee weapon
+Castanas | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: secondary weapon
+Talons | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Castanas already researched. Category: secondary weapon
+Dual Raza | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: melee weapon
+Gazal Machete | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: melee weapon
+Nami Skyla | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: melee weapon
+Tonbo | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon
+Venato | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Tonbo already researched. Category: melee weapon
+Scourge | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Tonbo already researched. Category: primary weapon
+Shaku | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon
+Okina | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon
+Masseter | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon
+Lacera | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon
+Guandao | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon
+Endura | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon
+Dark Split-Sword | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Requires Nami Skyla already researched. Category: melee weapon (Heavy Blade)
+Silva & Aegis | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: melee weapon
+Fluctus | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: Arch-gun
+Larkspur | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: Arch-gun
+Velocitus | Tenno Lab (Dojo) | Clan Dojo research — Tenno Lab. Blueprint costs 15,000 Credits once researched. Category: Arch-gun
+
+# --- Bonus: Warframes and Archwings also researched in the Tenno Lab ---
+# Unlike the weapons above, the Node script does NOT detect these because
+# the material cost of each part (Chassis/Neuroptics/Systems) isn't in the
+# official item data, only on the wiki. Confirmed on each item's own page.
+Banshee | Tenno Lab (Dojo) | Warframe researched in the Tenno Lab. Its parts (Chassis, Neuroptics, Systems) are also researched there; the main Blueprint needs Fieldron + Detonite Injector + Mutagen Mass + Orokin Cell
+Nezha | Tenno Lab (Dojo) | Warframe researched in the Tenno Lab. Its parts (Chassis, Neuroptics, Systems) are also researched there; the main Blueprint needs Fieldron + Detonite Injector + Mutagen Mass + Orokin Cell
+Volt | Tenno Lab (Dojo) | Warframe researched in the Tenno Lab. Its parts (Chassis, Neuroptics, Systems) are also researched there; the main Blueprint needs Fieldron + Detonite Injector + Mutagen Mass + Orokin Cell
+Wukong | Tenno Lab (Dojo) | Warframe researched in the Tenno Lab. Its parts (Chassis, Neuroptics, Systems) are also researched there; the main Blueprint needs Fieldron + Detonite Injector + Mutagen Mass + Orokin Cell
+Zephyr | Tenno Lab (Dojo) | Warframe researched in the Tenno Lab. Its parts (Chassis, Neuroptics, Systems) are also researched there; the main Blueprint needs Fieldron + Detonite Injector + Mutagen Mass + Orokin Cell
+Amesha | Tenno Lab (Dojo) | Archwing researched in the Tenno Lab (Harness, Systems and Wings are also researched there)
+Elytron | Tenno Lab (Dojo) | Archwing researched in the Tenno Lab (Harness, Systems and Wings are also researched there)
+Itzal | Tenno Lab (Dojo) | Archwing researched in the Tenno Lab (Harness, Systems and Wings are also researched there)

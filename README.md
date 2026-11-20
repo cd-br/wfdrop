@@ -12,7 +12,7 @@ Os dados são fornecidos pela WFCD.
 
 As fichas de inimigos e missões foram adaptadas da WARFRAME Wiki e de seus colaboradores, sob a licença CC BY-NC-SA 3.0.
 
-os dados foram reorganizados e simplificados para este site. Os dados adaptados continuam sob a mesma licença.
+Os dados foram reorganizados e simplificados para este site. Os dados adaptados continuam sob a mesma licença.
 
 Canal para Contato apenas via discord: > br.uxao e > https://discord.gg/22qZMgB9R3
 

@@ -1,0 +1,1 @@
+import{escaparHtml as a}from"../utils/html.js";import{t as e}from"../i18n.js";function i(r){return r?`<span class="badge-raridade badge-raridade--${a(r)}">${a(e("raridade."+r))}</span>`:""}export{i as htmlBadgeRaridade};

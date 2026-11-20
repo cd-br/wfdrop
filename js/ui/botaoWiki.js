@@ -1,0 +1,1 @@
+import{escaparHtml as o}from"../utils/html.js";import{t as i}from"../i18n.js";function e(r){return`<div class="rodape-wiki"><a class="botao-wiki" href="${o(r)}" target="_blank" rel="noopener">${o(i("modal.verWiki"))}</a></div>`}export{e as htmlBotaoWiki};

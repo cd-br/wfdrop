@@ -1,0 +1,1 @@
+const r={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"};function n(t){return String(t??"").replace(/[&<>"']/g,e=>r[e])}function a(t){return String(t??"").replace(/[.*+?^${}()|[\]\\]/g,"\\$&")}export{n as escaparHtml,a as escaparRegex};

@@ -16,4 +16,4 @@ os dados foram reorganizados e simplificados para este site. Os dados adaptados 
 
 Canal para Contato apenas via discord: > br.uxao e > https://discord.gg/22qZMgB9R3
 
-Versão: 2.5.1
+Versão: 2.6.3

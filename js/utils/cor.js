@@ -1,1 +1,0 @@
-function a(o){const n=String(o).replace("#",""),e=n.length===3?n.split("").map(t=>t+t).join(""):n,r=parseInt(e,16);return{r:r>>16&255,g:r>>8&255,b:r&255}}function c(o,n){const{r:e,g:r,b:t}=a(o);return`rgba(${e}, ${r}, ${t}, ${n})`}export{a as hexParaRgb,c as rgbaDoHex};

@@ -1,1 +1,0 @@
-import{ehRecurso as u}from"../dados-recursos.js";import{ehNoDeSobrevivencia as t}from"../api/nodes.js";function m(i,s){const a=u(i),o=e=>e.chance==null&&!e.semFonte&&e.categoria?1:0;return[...s].sort((e,r)=>{if(o(e)!==o(r))return o(r)-o(e);if(a){const c=t(e.local)?1:0,n=t(r.local)?1:0;if(c!==n)return n-c}return(r.chance??0)-(e.chance??0)})}export{m as ordenarEntradasDoItem};

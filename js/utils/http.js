@@ -1,1 +1,0 @@
-const a=8e3;async function i(e,{timeoutMs:r=8e3,signal:o}={}){const t=new AbortController;o&&(o.aborted?t.abort():o.addEventListener("abort",()=>t.abort()));const n=setTimeout(()=>t.abort(),r);try{return await fetch(e,{signal:t.signal})}finally{clearTimeout(n)}}export{i as fetchComTimeout};
